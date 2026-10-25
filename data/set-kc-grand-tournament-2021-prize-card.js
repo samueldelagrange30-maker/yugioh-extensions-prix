@@ -1,1 +1,0 @@
-window.YGO_SET={"n":"KC Grand Tournament 2021 prize card","en":"KC Grand Tournament 2021 prize card","rows":[["Magicien Sombre","2021-EN001","Extra Secrète Rare",0.29,46986414,"Monstre normal",2]],"cards":{"46986414":{"e":"Dark Magician","x":1,"t":"Monstre normal","d":"Mage suprême en termes d'attaque et de défense.","r":"Magicien","a":"TÉNÈBRES","l":7,"k":2500,"f":2100}}};

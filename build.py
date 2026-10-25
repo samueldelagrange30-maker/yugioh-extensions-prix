@@ -26,6 +26,9 @@ def price(p):
     except: return 0.0
 # Cascade de prix par impression: src 0=exact, 1=impression soeur (même carte/extension/rareté), 2=prix moyen carte, 3=indispo
 def num(code): m=re.search(r'(\d+)$',code or ''); return int(m.group(1)) if m else None
+# Exclusion des Prize Cards (cartes de récompense de tournoi): extension ou rareté contenant "prize"
+PRIZE=re.compile(r'prize',re.I)
+def is_prize(p): return bool(PRIZE.search(p.get('set_name','')) or PRIZE.search(p.get('set_rarity','') or '') or PRIZE.search(p.get('set_rarity_code','') or ''))
 sets={};dups=0;CI={}
 for c in cards:
     img=c['card_images'][0]['id'] if c.get('card_images') else 0
@@ -36,6 +39,7 @@ for c in cards:
     if cardp<=0: cardp=next((price(cp.get(k)) for k in ('ebay_price','amazon_price','coolstuffinc_price') if price(cp.get(k))>0),0.0)
     seen=set();prs=[]
     for p in c.get('card_sets') or []:
+        if is_prize(p): continue
         key=(p['set_name'],p.get('set_code',''),p.get('set_rarity',''))
         if key in seen: dups+=1; continue
         seen.add(key);prs.append(p)
