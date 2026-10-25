@@ -1,12 +1,18 @@
 #!/usr/bin/env python3
 """Génère data/*.js depuis raw/cardinfo.json + raw/cardsets.json.
 Rafraîchir: python3 build.py --download"""
-import json, os, re, sys, datetime, subprocess
+import json, urllib.request, os, re, sys, datetime, subprocess
 B=os.path.dirname(os.path.abspath(__file__)); R=os.path.join(B,'raw'); D=os.path.join(B,'data')
 if '--download' in sys.argv:
     os.makedirs(R,exist_ok=True)
     for f in ('cardinfo','cardsets'):
         subprocess.check_call(['curl','-s','-o',os.path.join(R,f+'.json'),f'https://db.ygoprodeck.com/api/v7/{f}.php'])
+# Taux USD->EUR (Frankfurter/BCE). Prix convertis à la construction, arrondis par carte; totaux = somme des prix affichés.
+try:
+    _fx=json.load(urllib.request.urlopen(urllib.request.Request('https://api.frankfurter.dev/v1/latest?from=USD&to=EUR',headers={'User-Agent':'site-yugioh-build'}),timeout=20)); RATE=_fx['rates']['EUR']; RATE_DATE=_fx['date']
+    json.dump(_fx,open(os.path.join(R,'fx.json'),'w'))
+except Exception:
+    _fx=json.load(open(os.path.join(R,'fx.json'))); RATE=_fx['rates']['EUR']; RATE_DATE=_fx['date']
 cards=json.load(open(os.path.join(R,'cardinfo.json')))['data']
 meta={s['set_name']:s for s in json.load(open(os.path.join(R,'cardsets.json')))}
 def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')[:60] or 'set'
@@ -35,7 +41,7 @@ for c in cards:
             if same or sib: v=(same or sib)[0];src=1
             elif cardp>0: v=cardp;src=2
             else: src=3
-        sets.setdefault(p['set_name'],[]).append([c['name'],p.get('set_code',''),p.get('set_rarity',''),round(v,2),img,c.get('type',''),src])
+        sets.setdefault(p['set_name'],[]).append([c['name'],p.get('set_code',''),p.get('set_rarity',''),round(v*RATE,2),img,c.get('type',''),src])
 os.makedirs(D,exist_ok=True)
 for f in os.listdir(D): os.remove(os.path.join(D,f))
 idx=[];used=set();grand=0;n=0;cnt=[0,0,0,0]
@@ -51,7 +57,7 @@ for name,rows in sets.items():
     with open(os.path.join(D,f'set-{k}.js'),'w') as f:
         info_c={r[4]:CI[r[4]] for r in rows}
         f.write('window.YGO_SET='+json.dumps(dict(n=name,rows=rows,cards=info_c),ensure_ascii=False,separators=(',',':'))+';')
-info=dict(date=datetime.date.today().isoformat(),grand=round(grand,2),printings=n,sets=len(idx),src=cnt,dups=dups,est=round(sum(x['e'] for x in idx),2))
+info=dict(rate=RATE,rate_date=RATE_DATE,date=datetime.date.today().isoformat(),grand=round(grand,2),printings=n,sets=len(idx),src=cnt,dups=dups,est=round(sum(x['e'] for x in idx),2))
 with open(os.path.join(D,'sets-index.js'),'w') as f:
     f.write('window.YGO_INFO='+json.dumps(info)+';window.YGO_SETS='+json.dumps(idx,ensure_ascii=False,separators=(',',':'))+';')
 print(info)

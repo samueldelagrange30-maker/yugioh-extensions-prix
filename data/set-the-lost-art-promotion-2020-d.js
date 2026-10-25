@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2020 D","rows":[["Foolish Burial","LART-EN016","Ultra Rare",0.13,81439173,"Spell Card",2]],"cards":{"81439173":{"t":"Spell Card","d":"Send 1 monster from your Deck to the GY.","r":"Normal","a":"","l":null,"k":null,"f":null}}};
+window.YGO_SET={"n":"The Lost Art Promotion 2020 D","rows":[["Foolish Burial","LART-EN016","Ultra Rare",0.12,81439173,"Spell Card",2]],"cards":{"81439173":{"t":"Spell Card","d":"Send 1 monster from your Deck to the GY.","r":"Normal","a":"","l":null,"k":null,"f":null}}};

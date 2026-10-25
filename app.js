@@ -1,5 +1,5 @@
-const $=i=>document.getElementById(i),usd=v=>'$'+v.toLocaleString('fr-FR',{minimumFractionDigits:2,maximumFractionDigits:2}),esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-function home(){const S=YGO_SETS,I=YGO_INFO,pc=x=>(100*x/I.printings).toFixed(1).replace('.',',')+' %';$('dt').textContent=I.date;
+const $=i=>document.getElementById(i),usd=v=>v.toLocaleString('fr-FR',{minimumFractionDigits:2,maximumFractionDigits:2})+' €',esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function home(){const S=YGO_SETS,I=YGO_INFO,pc=x=>(100*x/I.printings).toFixed(1).replace('.',',')+' %';$('dt').textContent=I.date;fx();
 $('stat').innerHTML=`<b>${I.sets}</b> extensions · <b>${I.printings.toLocaleString('fr-FR')}</b> cartes (impressions) · Total global : <b>${usd(I.grand)}</b> <span class="mut">(dont ${usd(I.est)} estimés)</span><div class="mut">Couverture des prix : ${pc(I.src[0])} exacts · ${pc(I.src[1])} estimés via impression sœur · ${pc(I.src[2])} estimés via prix moyen de la carte · ${pc(I.src[3])} indisponibles</div>`;
 [...new Set(S.map(s=>(s.d||'').slice(0,4)).filter(x=>x))].sort().reverse().forEach(y=>$('y').add(new Option(y,y)));
 const r=()=>{const q=$('q').value.toLowerCase(),y=$('y').value,[k,o]=[$('s').value[0],$('s').value[1]];
@@ -7,7 +7,7 @@ let L=S.filter(s=>(!q||(s.n+' '+s.c).toLowerCase().includes(q))&&(!y||(s.d||'').
 L.sort((a,b)=>{let x=a[k]||'',z=b[k]||'';let c=typeof x=='number'?x-z:String(x).localeCompare(String(z));return o=='+'?c:-c});
 $('tb').innerHTML=L.map(s=>`<tr><td><a class="setl" href="set.html?s=${s.s}">${simg(s,'si')}<span>${esc(s.n)}</span></a>${s.m?` <span class="mut warn">(${s.m} prix indisponible${s.m>1?'s':''})</span>`:''}</td><td class="hide-m mut">${esc(s.c)}</td><td class="mut">${s.d||'—'}</td><td class="num">${s.p}</td><td class="num"><b>${usd(s.t)}</b>${s.e?`<div class="mut">dont ${usd(s.e)} estimés</div>`:''}</td></tr>`).join('')};
 ['q','y','s'].forEach(i=>$(i).oninput=r);r()}
-function setPage(){const k=new URLSearchParams(location.search).get('s'),m=YGO_SETS.find(s=>s.s==k);$('dt').textContent=YGO_INFO.date;
+function setPage(){const k=new URLSearchParams(location.search).get('s'),m=YGO_SETS.find(s=>s.s==k);$('dt').textContent=YGO_INFO.date;fx();
 if(!m){$('h').textContent='Extension introuvable';return}document.title=m.n+' – Yu-Gi-Oh!';$('h').textContent=m.n;$('hi').innerHTML=simg(m,'sh');
 const sc=document.createElement('script');sc.src='data/set-'+k+'.js';sc.onload=()=>{const R=YGO_SET.rows;let sk=3,so=-1;
 $('stat').innerHTML=`Prix total de l'extension : <b>${usd(m.t)}</b> <span class="mut">(dont ${usd(m.e)} estimés sur ${m.ne} cartes)</span> · ${m.p} cartes · ${m.c} · ${m.d||''}${m.m?` · <span class="warn">${m.m} prix indisponible(s)</span>`:''}`;
@@ -22,3 +22,4 @@ $('mb').innerHTML=`<img src="img/c/${x[4]}.webp" onerror="ph(this)"><div><h2>${e
 
 function simg(s,c){return s.i?`<img class="${c}" loading="lazy" src="img/s/${encodeURIComponent(s.c)}.webp" alt="" onerror="ph(this)">`:`<span class="${c} ph"></span>`}
 function ph(i){const s=document.createElement('span');s.className=i.className+' ph';i.replaceWith(s)}
+function fx(){const e=$('fx');if(e)e.textContent=`1 $ = ${YGO_INFO.rate.toLocaleString('fr-FR',{maximumFractionDigits:4})} € du ${YGO_INFO.rate_date.split('-').reverse().join('/')}`}

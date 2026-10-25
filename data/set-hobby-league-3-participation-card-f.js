@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 3 participation card F","rows":[["Royal Decree","HL03-EN006","Ultra Parallel Rare",19.44,51452091,"Trap Card",0]],"cards":{"51452091":{"t":"Trap Card","d":"Negate all other Trap effects on the field.","r":"Continuous","a":"","l":null,"k":null,"f":null}}};
+window.YGO_SET={"n":"Hobby League 3 participation card F","rows":[["Royal Decree","HL03-EN006","Ultra Parallel Rare",17.37,51452091,"Trap Card",0]],"cards":{"51452091":{"t":"Trap Card","d":"Negate all other Trap effects on the field.","r":"Continuous","a":"","l":null,"k":null,"f":null}}};
