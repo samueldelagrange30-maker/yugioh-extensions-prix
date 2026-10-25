@@ -1,1 +1,0 @@
-window.YGO_SET={"n":"Hobby League 4 participation card D","en":"Hobby League 4 participation card D","rows":[["Charité Gracieuse","HL04-EN004","Ultra Rare Parallèle",27.81,79571449,"Magie",0]],"cards":{"79571449":{"e":"Graceful Charity","x":1,"t":"Magie","d":"Piochez 3 cartes, puis défaussez 2 cartes.","r":"Normale","a":"","l":null,"k":null,"f":null}}};

@@ -1,1 +1,0 @@
-window.YGO_SET={"n":"Hobby League 3 participation card F","en":"Hobby League 3 participation card F","rows":[["Décret Royal","HL03-EN006","Ultra Rare Parallèle",17.37,51452091,"Piège",0]],"cards":{"51452091":{"e":"Royal Decree","x":1,"t":"Piège","d":"Annulez tous les autres effets de Piège sur le Terrain.","r":"Continue","a":"","l":null,"k":null,"f":null}}};

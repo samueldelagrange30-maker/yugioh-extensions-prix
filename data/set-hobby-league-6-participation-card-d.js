@@ -1,1 +1,0 @@
-window.YGO_SET={"n":"| de_name         =","en":"Hobby League 6 participation card D","rows":[["Renfort de l'Armée","HL06-EN004","Ultra Rare Parallèle",27.07,32807846,"Magie",0]],"cards":{"32807846":{"e":"Reinforcement of the Army","x":1,"t":"Magie","d":"Ajoutez 1 monstre Guerrier de max. Niveau 4 depuis votre Deck à votre main.","r":"Normale","a":"","l":null,"k":null,"f":null}}};

@@ -28,7 +28,9 @@ def price(p):
 def num(code): m=re.search(r'(\d+)$',code or ''); return int(m.group(1)) if m else None
 # Exclusion des Prize Cards (cartes de récompense de tournoi): extension ou rareté contenant "prize"
 PRIZE=re.compile(r'prize',re.I)
-def is_prize(p): return bool(PRIZE.search(p.get('set_name','')) or PRIZE.search(p.get('set_rarity','') or '') or PRIZE.search(p.get('set_rarity_code','') or ''))
+# Produits distribués uniquement en événement/tournoi (non vendus en boutique)
+EVENT_FILTER=re.compile(r'tournament pack|duelist league|hobby league|participation card|turbo pack|champion pack|world championship 20\d\d card pack|limited pack world championship',re.I)
+def is_prize(p): return bool(PRIZE.search(p.get('set_name','')) or EVENT_FILTER.search(p.get('set_name','')) or PRIZE.search(p.get('set_rarity','') or '') or PRIZE.search(p.get('set_rarity_code','') or ''))
 sets={};dups=0;CI={}
 for c in cards:
     img=c['card_images'][0]['id'] if c.get('card_images') else 0

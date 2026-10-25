@@ -1,1 +1,0 @@
-window.YGO_SET={"n":"Hobby League 2 participation card D","en":"Hobby League 2 participation card D","rows":[["Violent Orage","HL2-EN004","Ultra Rare Parallèle",30.32,19613556,"Magie",0]],"cards":{"19613556":{"e":"Heavy Storm","x":1,"t":"Magie","d":"Détruisez toutes les Cartes Magie/Piège sur le Terrain.","r":"Normale","a":"","l":null,"k":null,"f":null}}};

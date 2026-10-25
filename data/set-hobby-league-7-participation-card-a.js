@@ -1,1 +1,0 @@
-window.YGO_SET={"n":"| de_name         =","en":"Hobby League 7 participation card A","rows":[["Monster Reborn","HL07-EN001","Ultra Rare Parallèle",39.05,83764719,"Magie",0]],"cards":{"83764719":{"e":"Monster Reborn","x":1,"t":"Magie","d":"Ciblez 1 monstre dans l'un des Cimetières ; Invoquez-le Spécialement.","r":"Normale","a":"","l":null,"k":null,"f":null}}};
