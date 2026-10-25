@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 B","rows":[["VWXYZ-Dragon Catapult Cannon","LART-EN032","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/84243274.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 B","rows":[["VWXYZ-Dragon Catapult Cannon","LART-EN032","Ultra Rare",0.23,"https://images.ygoprodeck.com/images/cards_small/84243274.jpg","Fusion Monster",2]]};

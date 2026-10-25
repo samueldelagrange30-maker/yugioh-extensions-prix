@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Soul Fusion Sneak Peek Participation Card","rows":[["Token Collector","SOFU-ENSP1","Ultra Rare",10.49,"https://images.ygoprodeck.com/images/cards_small/43534808.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Soul Fusion Sneak Peek Participation Card","rows":[["Token Collector","SOFU-ENSP1","Ultra Rare",10.49,"https://images.ygoprodeck.com/images/cards_small/43534808.jpg","Effect Monster",0]]};

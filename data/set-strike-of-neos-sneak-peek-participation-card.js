@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Strike of Neos Sneak Peek Participation Card","rows":[["Grandmaster of the Six Samurai","STON-ENSP1","Super Rare",7.65,"https://images.ygoprodeck.com/images/cards_small/83039729.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Strike of Neos Sneak Peek Participation Card","rows":[["Grandmaster of the Six Samurai","STON-ENSP1","Super Rare",7.65,"https://images.ygoprodeck.com/images/cards_small/83039729.jpg","Effect Monster",0]]};

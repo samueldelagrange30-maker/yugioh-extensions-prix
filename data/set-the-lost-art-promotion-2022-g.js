@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2022 G","rows":[["Cyber Angel Benten","LART-EN049","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/77235086.jpg","Ritual Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2022 G","rows":[["Cyber Angel Benten","LART-EN049","Ultra Rare",0.13,"https://images.ygoprodeck.com/images/cards_small/77235086.jpg","Ritual Effect Monster",2]]};

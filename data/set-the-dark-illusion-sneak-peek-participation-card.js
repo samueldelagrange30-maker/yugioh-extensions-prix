@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Dark Illusion Sneak Peek Participation Card","rows":[["Magical Something","TDIL-ENSP1","Ultra Rare",5.28,"https://images.ygoprodeck.com/images/cards_small/43930492.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Dark Illusion Sneak Peek Participation Card","rows":[["Magical Something","TDIL-ENSP1","Ultra Rare",5.28,"https://images.ygoprodeck.com/images/cards_small/43930492.jpg","Effect Monster",0]]};

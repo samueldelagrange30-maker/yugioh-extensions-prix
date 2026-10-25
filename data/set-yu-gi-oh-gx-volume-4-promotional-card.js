@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 4 promotional card","rows":[["Elemental HERO Absolute Zero","YG04-EN001","Ultra Rare",54.24,"https://images.ygoprodeck.com/images/cards_small/40854197.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 4 promotional card","rows":[["Elemental HERO Absolute Zero","YG04-EN001","Ultra Rare",54.24,"https://images.ygoprodeck.com/images/cards_small/40854197.jpg","Fusion Monster",0]]};

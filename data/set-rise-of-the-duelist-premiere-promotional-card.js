@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Rise of the Duelist Premiere! promotional card","rows":[["Gaia the Fierce Knight Origin","ROTD-ENSP1","Ultra Rare",8.43,"https://images.ygoprodeck.com/images/cards_small/50354944.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Rise of the Duelist Premiere! promotional card","rows":[["Gaia the Fierce Knight Origin","ROTD-ENSP1","Ultra Rare",8.43,"https://images.ygoprodeck.com/images/cards_small/50354944.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duelist League Series 3 participation card","rows":[["Necrovalley","DL3-001","Rare",6.83,"https://images.ygoprodeck.com/images/cards_small/47355498.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Duelist League Series 3 participation card","rows":[["Necrovalley","DL3-001","Rare",6.83,"https://images.ygoprodeck.com/images/cards_small/47355498.jpg","Spell Card",0]]};

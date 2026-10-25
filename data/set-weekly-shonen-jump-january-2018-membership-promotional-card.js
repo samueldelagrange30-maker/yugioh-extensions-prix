@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump January 2018 membership promotional card","rows":[["Trickstar Crimson Heart","JUMP-EN083","Ultra Rare",5.55,"https://images.ygoprodeck.com/images/cards_small/51011872.jpg","Link Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump January 2018 membership promotional card","rows":[["Trickstar Crimson Heart","JUMP-EN083","Ultra Rare",5.55,"https://images.ygoprodeck.com/images/cards_small/51011872.jpg","Link Monster",0]]};

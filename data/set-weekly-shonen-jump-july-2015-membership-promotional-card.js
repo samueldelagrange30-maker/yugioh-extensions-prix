@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump July 2015 membership promotional card","rows":[["Frightfur Tiger","JUMP-EN073","Ultra Rare",5.29,"https://images.ygoprodeck.com/images/cards_small/464362.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump July 2015 membership promotional card","rows":[["Frightfur Tiger","JUMP-EN073","Ultra Rare",5.29,"https://images.ygoprodeck.com/images/cards_small/464362.jpg","Fusion Monster",0]]};

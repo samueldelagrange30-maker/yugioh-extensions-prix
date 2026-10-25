@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Trials of the Pharaoh - Trials of the Kingdom promotional card","rows":[["Floodgate Trap Hole","OPTP-EN001","Super Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/69599136.jpg","Trap Card"]]};
+window.YGO_SET={"n":"Trials of the Pharaoh - Trials of the Kingdom promotional card","rows":[["Floodgate Trap Hole","OPTP-EN001","Super Rare",0.18,"https://images.ygoprodeck.com/images/cards_small/69599136.jpg","Trap Card",2]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 9 promotional card","rows":[["Malefic Stardust Dragon","JUMP-EN043","Ultra Rare",9.51,"https://images.ygoprodeck.com/images/cards_small/36521459.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 9 promotional card","rows":[["Malefic Stardust Dragon","JUMP-EN043","Ultra Rare",9.51,"https://images.ygoprodeck.com/images/cards_small/36521459.jpg","Effect Monster",0]]};

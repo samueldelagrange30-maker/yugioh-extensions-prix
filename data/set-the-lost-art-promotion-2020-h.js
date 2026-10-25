@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2020 H","rows":[["The Legendary Fisherman","LART-EN020","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/3643300.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2020 H","rows":[["The Legendary Fisherman","LART-EN020","Ultra Rare",0.12,"https://images.ygoprodeck.com/images/cards_small/3643300.jpg","Effect Monster",2]]};

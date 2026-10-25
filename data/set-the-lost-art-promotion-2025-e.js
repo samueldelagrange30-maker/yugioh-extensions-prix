@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2025 E","rows":[["Backup @Ignister","LART-EN080","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/30118811.jpg","Tuner Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2025 E","rows":[["Backup @Ignister","LART-EN080","Ultra Rare",3.77,"https://images.ygoprodeck.com/images/cards_small/30118811.jpg","Tuner Monster",2]]};

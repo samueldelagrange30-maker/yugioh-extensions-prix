@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 4 participation card D","rows":[["Graceful Charity","HL04-EN004","Ultra Parallel Rare",31.13,"https://images.ygoprodeck.com/images/cards_small/79571449.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Hobby League 4 participation card D","rows":[["Graceful Charity","HL04-EN004","Ultra Parallel Rare",31.13,"https://images.ygoprodeck.com/images/cards_small/79571449.jpg","Spell Card",0]]};

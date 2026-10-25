@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 3 participation card D","rows":[["Spear Dragon","HL03-EN004","Ultra Parallel Rare",9.84,"https://images.ygoprodeck.com/images/cards_small/31553716.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Hobby League 3 participation card D","rows":[["Spear Dragon","HL03-EN004","Ultra Parallel Rare",9.84,"https://images.ygoprodeck.com/images/cards_small/31553716.jpg","Effect Monster",0]]};

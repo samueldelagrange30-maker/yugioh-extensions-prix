@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 7 promotional card","rows":[["Blizzard Princess","YG07-EN001","Ultra Rare",10.12,"https://images.ygoprodeck.com/images/cards_small/28348537.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 7 promotional card","rows":[["Blizzard Princess","YG07-EN001","Ultra Rare",10.12,"https://images.ygoprodeck.com/images/cards_small/28348537.jpg","Effect Monster",0]]};

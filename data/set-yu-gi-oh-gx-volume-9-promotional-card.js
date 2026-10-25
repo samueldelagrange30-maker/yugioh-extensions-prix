@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 9 promotional card","rows":[["Elemental HERO Escuridao","YG09-EN001","Ultra Rare",14.48,"https://images.ygoprodeck.com/images/cards_small/33574806.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 9 promotional card","rows":[["Elemental HERO Escuridao","YG09-EN001","Ultra Rare",14.48,"https://images.ygoprodeck.com/images/cards_small/33574806.jpg","Fusion Monster",0]]};

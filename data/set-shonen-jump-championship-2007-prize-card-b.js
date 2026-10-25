@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Championship 2007 Prize Card B","rows":[["Gold Sarcophagus","SJCS-EN005","Ultra Rare",24000.0,"https://images.ygoprodeck.com/images/cards_small/75500286.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Shonen Jump Championship 2007 Prize Card B","rows":[["Gold Sarcophagus","SJCS-EN005","Ultra Rare",24000.0,"https://images.ygoprodeck.com/images/cards_small/75500286.jpg","Spell Card",0]]};

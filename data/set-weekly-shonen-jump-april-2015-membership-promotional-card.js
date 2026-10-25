@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump April 2015 membership promotional card","rows":[["Ultimaya Tzolkin","JUMP-EN072","Ultra Rare",32.44,"https://images.ygoprodeck.com/images/cards_small/1686814.jpg","Synchro Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump April 2015 membership promotional card","rows":[["Ultimaya Tzolkin","JUMP-EN072","Ultra Rare",32.44,"https://images.ygoprodeck.com/images/cards_small/1686814.jpg","Synchro Monster",0]]};

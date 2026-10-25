@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duelist League Series 7 participation card","rows":[["Toon Goblin Attack Force","DL7-EN001","Super Rare",4.64,"https://images.ygoprodeck.com/images/cards_small/15270885.jpg","Toon Monster"]]};
+window.YGO_SET={"n":"Duelist League Series 7 participation card","rows":[["Toon Goblin Attack Force","DL7-EN001","Super Rare",4.64,"https://images.ygoprodeck.com/images/cards_small/15270885.jpg","Toon Monster",0]]};

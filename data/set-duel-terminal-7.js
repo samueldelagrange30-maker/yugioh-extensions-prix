@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duel Terminal 7","rows":[["Infernity Archfiend","DT07-EN060","Duel Terminal Normal Parallel Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/99177923.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Duel Terminal 7","rows":[["Infernity Archfiend","DT07-EN060","Duel Terminal Normal Parallel Rare",0.85,"https://images.ygoprodeck.com/images/cards_small/99177923.jpg","Effect Monster",2]]};

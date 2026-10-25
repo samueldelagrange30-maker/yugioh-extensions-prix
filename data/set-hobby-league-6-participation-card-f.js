@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 6 participation card F","rows":[["Shining Angel","HL06-EN006","Ultra Parallel Rare",13.92,"https://images.ygoprodeck.com/images/cards_small/95956346.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Hobby League 6 participation card F","rows":[["Shining Angel","HL06-EN006","Ultra Parallel Rare",13.92,"https://images.ygoprodeck.com/images/cards_small/95956346.jpg","Effect Monster",0]]};

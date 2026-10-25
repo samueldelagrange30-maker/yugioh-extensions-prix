@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2025 C","rows":[["Blackwing Armed Wing","LART-EN078","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/76913983.jpg","Synchro Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2025 C","rows":[["Blackwing Armed Wing","LART-EN078","Ultra Rare",0.27,"https://images.ygoprodeck.com/images/cards_small/76913983.jpg","Synchro Monster",2]]};

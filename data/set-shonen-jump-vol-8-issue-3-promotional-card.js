@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 3 promotional card","rows":[["Cyber Eltanin","JUMP-EN038","Ultra Rare",3.82,"https://images.ygoprodeck.com/images/cards_small/33093439.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 3 promotional card","rows":[["Cyber Eltanin","JUMP-EN038","Ultra Rare",3.82,"https://images.ygoprodeck.com/images/cards_small/33093439.jpg","Effect Monster",0]]};

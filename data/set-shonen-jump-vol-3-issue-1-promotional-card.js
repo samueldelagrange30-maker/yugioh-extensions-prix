@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 3, Issue 1 promotional card","rows":[["Archfiend of Gilfer","JMP-EN003","Ultra Rare",11.45,"https://images.ygoprodeck.com/images/cards_small/50287060.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 3, Issue 1 promotional card","rows":[["Archfiend of Gilfer","JMP-EN003","Ultra Rare",11.45,"https://images.ygoprodeck.com/images/cards_small/50287060.jpg","Effect Monster",0]]};

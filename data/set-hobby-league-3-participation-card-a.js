@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 3 participation card A","rows":[["Giant Rat","HL03-EN001","Ultra Parallel Rare",7.39,"https://images.ygoprodeck.com/images/cards_small/97017120.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Hobby League 3 participation card A","rows":[["Giant Rat","HL03-EN001","Ultra Parallel Rare",7.39,"https://images.ygoprodeck.com/images/cards_small/97017120.jpg","Effect Monster",0]]};

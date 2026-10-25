@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 1 promotional card","rows":[["The Wicked Dreadroot","JUMP-EN018","Ultra Rare",13.97,"https://images.ygoprodeck.com/images/cards_small/62180201.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 1 promotional card","rows":[["The Wicked Dreadroot","JUMP-EN018","Ultra Rare",13.97,"https://images.ygoprodeck.com/images/cards_small/62180201.jpg","Effect Monster",0]]};

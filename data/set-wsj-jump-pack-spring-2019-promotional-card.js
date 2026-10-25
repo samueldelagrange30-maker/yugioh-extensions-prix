@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"WSJ Jump Pack Spring 2019 promotional card","rows":[["Elemental HERO Stratos","JMPS-EN008","Ultra Rare",7.8,"https://images.ygoprodeck.com/images/cards_small/40044918.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"WSJ Jump Pack Spring 2019 promotional card","rows":[["Elemental HERO Stratos","JMPS-EN008","Ultra Rare",7.8,"https://images.ygoprodeck.com/images/cards_small/40044918.jpg","Effect Monster",0]]};

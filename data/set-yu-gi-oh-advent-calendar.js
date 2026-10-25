@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! Advent Calendar","rows":[["Performapal Kuribohble","AC19-EN024","Ultra Rare",6.5,"https://images.ygoprodeck.com/images/cards_small/69181753.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! Advent Calendar","rows":[["Performapal Kuribohble","AC19-EN024","Ultra Rare",6.5,"https://images.ygoprodeck.com/images/cards_small/69181753.jpg","Effect Monster",0]]};

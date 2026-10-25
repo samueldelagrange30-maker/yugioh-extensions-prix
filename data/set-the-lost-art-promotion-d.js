@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion D","rows":[["Exodia the Forbidden One","LART-EN004","Ultra Rare",42.75,"https://images.ygoprodeck.com/images/cards_small/33396948.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion D","rows":[["Exodia the Forbidden One","LART-EN004","Ultra Rare",42.75,"https://images.ygoprodeck.com/images/cards_small/33396948.jpg","Effect Monster",0]]};

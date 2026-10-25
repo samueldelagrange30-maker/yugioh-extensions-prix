@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Ignition Assault Sneak Peek Participation Card","rows":[["Sky Striker Maneuver - Scissors Cross","IGAS-ENSP1","Ultra Rare",3.7,"https://images.ygoprodeck.com/images/cards_small/46271408.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Ignition Assault Sneak Peek Participation Card","rows":[["Sky Striker Maneuver - Scissors Cross","IGAS-ENSP1","Ultra Rare",3.7,"https://images.ygoprodeck.com/images/cards_small/46271408.jpg","Spell Card",0]]};

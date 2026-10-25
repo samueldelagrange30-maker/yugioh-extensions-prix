@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Return of the Duelist Sneak Peek Participation Card","rows":[["Noble Knight Gawayn","REDU-ENSP1","Ultra Rare",5.06,"https://images.ygoprodeck.com/images/cards_small/19680539.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Return of the Duelist Sneak Peek Participation Card","rows":[["Noble Knight Gawayn","REDU-ENSP1","Ultra Rare",5.06,"https://images.ygoprodeck.com/images/cards_small/19680539.jpg","Effect Monster",0]]};

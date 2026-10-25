@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 9 promotional card","rows":[["Dragonic Knight","JUMP-EN026","Ultra Rare",4.47,"https://images.ygoprodeck.com/images/cards_small/38109772.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 9 promotional card","rows":[["Dragonic Knight","JUMP-EN026","Ultra Rare",4.47,"https://images.ygoprodeck.com/images/cards_small/38109772.jpg","Effect Monster",0]]};

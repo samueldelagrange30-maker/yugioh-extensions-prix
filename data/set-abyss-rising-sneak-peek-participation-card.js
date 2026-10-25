@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Abyss Rising Sneak Peek Participation Card","rows":[["Ignoble Knight of Black Laundsallyn","ABYR-ENSP1","Ultra Rare",4.59,"https://images.ygoprodeck.com/images/cards_small/95772051.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Abyss Rising Sneak Peek Participation Card","rows":[["Ignoble Knight of Black Laundsallyn","ABYR-ENSP1","Ultra Rare",4.59,"https://images.ygoprodeck.com/images/cards_small/95772051.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Legendary Collection: 25th Anniversary Edition","rows":[["Blue-Eyes White Dragon","LC01-EN004","Quarter Century Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster"]]};
+window.YGO_SET={"n":"Legendary Collection: 25th Anniversary Edition","rows":[["Blue-Eyes White Dragon","LC01-EN004","Quarter Century Secret Rare",0.14,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster",2]]};

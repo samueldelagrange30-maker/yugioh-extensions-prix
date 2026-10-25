@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 7 promotional card","rows":[["Go! - D/D/D Divine Zero King Rage","YA07-EN001","Ultra Rare",17.37,"https://images.ygoprodeck.com/images/cards_small/40227329.jpg","Pendulum Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 7 promotional card","rows":[["Go! - D/D/D Divine Zero King Rage","YA07-EN001","Ultra Rare",17.37,"https://images.ygoprodeck.com/images/cards_small/40227329.jpg","Pendulum Effect Monster",0]]};

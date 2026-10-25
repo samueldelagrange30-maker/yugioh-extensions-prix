@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Eternity Code Premiere! promotional card","rows":[["Malice, Lady of Lament","ETCO-ENSP1","Ultra Rare",10.86,"https://images.ygoprodeck.com/images/cards_small/25643346.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Eternity Code Premiere! promotional card","rows":[["Malice, Lady of Lament","ETCO-ENSP1","Ultra Rare",10.86,"https://images.ygoprodeck.com/images/cards_small/25643346.jpg","Effect Monster",0]]};

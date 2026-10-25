@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Dimension of Chaos Sneak Peek Participation Card","rows":[["Samurai Cavalry of Reptier","DOCS-ENSP1","Ultra Rare",4.02,"https://images.ygoprodeck.com/images/cards_small/93124273.jpg","Pendulum Effect Monster"]]};
+window.YGO_SET={"n":"Dimension of Chaos Sneak Peek Participation Card","rows":[["Samurai Cavalry of Reptier","DOCS-ENSP1","Ultra Rare",4.02,"https://images.ygoprodeck.com/images/cards_small/93124273.jpg","Pendulum Effect Monster",0]]};

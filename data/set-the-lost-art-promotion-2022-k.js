@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2022 K","rows":[["Tribute Burial","LART-EN053","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/80230510.jpg","Spell Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2022 K","rows":[["Tribute Burial","LART-EN053","Ultra Rare",0.91,"https://images.ygoprodeck.com/images/cards_small/80230510.jpg","Spell Card",2]]};

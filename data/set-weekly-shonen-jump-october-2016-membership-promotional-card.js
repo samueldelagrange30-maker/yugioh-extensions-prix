@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump October 2016 membership promotional card","rows":[["Masked HERO Blast","JUMP-EN078","Ultra Rare",74.73,"https://images.ygoprodeck.com/images/cards_small/89870349.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump October 2016 membership promotional card","rows":[["Masked HERO Blast","JUMP-EN078","Ultra Rare",74.73,"https://images.ygoprodeck.com/images/cards_small/89870349.jpg","Fusion Monster",0]]};

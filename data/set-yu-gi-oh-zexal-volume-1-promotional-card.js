@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 1 promotional card","rows":[["Kachi Kochi Dragon","YZ01-EN001","Ultra Rare",3.69,"https://images.ygoprodeck.com/images/cards_small/69069911.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 1 promotional card","rows":[["Kachi Kochi Dragon","YZ01-EN001","Ultra Rare",3.69,"https://images.ygoprodeck.com/images/cards_small/69069911.jpg","XYZ Monster",0]]};

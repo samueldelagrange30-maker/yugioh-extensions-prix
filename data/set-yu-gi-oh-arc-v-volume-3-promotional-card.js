@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 3 promotional card","rows":[["D/D/D Destiny King Zero Laplace","YA03-EN001","Ultra Rare",11.06,"https://images.ygoprodeck.com/images/cards_small/21686473.jpg","Pendulum Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 3 promotional card","rows":[["D/D/D Destiny King Zero Laplace","YA03-EN001","Ultra Rare",11.06,"https://images.ygoprodeck.com/images/cards_small/21686473.jpg","Pendulum Effect Monster",0]]};

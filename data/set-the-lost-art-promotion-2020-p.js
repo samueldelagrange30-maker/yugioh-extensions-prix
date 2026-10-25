@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2020 P","rows":[["Alluring Mirror Split","LART-EN028","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/92881099.jpg","Spell Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2020 P","rows":[["Alluring Mirror Split","LART-EN028","Ultra Rare",0.3,"https://images.ygoprodeck.com/images/cards_small/92881099.jpg","Spell Card",2]]};

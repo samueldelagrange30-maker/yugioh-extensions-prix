@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Ancient Prophecy Sneak Peek Participation Card","rows":[["XX-Saber Gardestrike","ANPR-ENSP1","Ultra Rare",4.87,"https://images.ygoprodeck.com/images/cards_small/42024143.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Ancient Prophecy Sneak Peek Participation Card","rows":[["XX-Saber Gardestrike","ANPR-ENSP1","Ultra Rare",4.87,"https://images.ygoprodeck.com/images/cards_small/42024143.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 5 promotional card","rows":[["Darklord Desire","YG05-EN001","Ultra Rare",6.17,"https://images.ygoprodeck.com/images/cards_small/55690251.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 5 promotional card","rows":[["Darklord Desire","YG05-EN001","Ultra Rare",6.17,"https://images.ygoprodeck.com/images/cards_small/55690251.jpg","Effect Monster",0]]};

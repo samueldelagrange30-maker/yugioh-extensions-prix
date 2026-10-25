@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Secrets of Eternity Sneak Peek Participation Card","rows":[["Dragoons of Draconia","SECE-ENSP1","Ultra Rare",2.9,"https://images.ygoprodeck.com/images/cards_small/73779005.jpg","Pendulum Normal Monster"]]};
+window.YGO_SET={"n":"Secrets of Eternity Sneak Peek Participation Card","rows":[["Dragoons of Draconia","SECE-ENSP1","Ultra Rare",2.9,"https://images.ygoprodeck.com/images/cards_small/73779005.jpg","Pendulum Normal Monster",0]]};

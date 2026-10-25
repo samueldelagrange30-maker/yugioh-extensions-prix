@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! 5D's Volume 1 promotional card","rows":[["Dark Highlander","YF01-EN001","Ultra Rare",5.39,"https://images.ygoprodeck.com/images/cards_small/75326861.jpg","Synchro Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! 5D's Volume 1 promotional card","rows":[["Dark Highlander","YF01-EN001","Ultra Rare",5.39,"https://images.ygoprodeck.com/images/cards_small/75326861.jpg","Synchro Monster",0]]};

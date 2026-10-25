@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Swedish Shonen Jump 2004, Issue 2 promotional card","rows":[["Blue-Eyes White Dragon","JMP-EN001","Ultra Rare",674.33,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster"]]};
+window.YGO_SET={"n":"Swedish Shonen Jump 2004, Issue 2 promotional card","rows":[["Blue-Eyes White Dragon","JMP-EN001","Ultra Rare",674.33,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster",0]]};

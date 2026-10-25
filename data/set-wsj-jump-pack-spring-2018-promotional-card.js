@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"WSJ Jump Pack Spring 2018 promotional card","rows":[["The Winged Dragon of Ra","JMPS-EN006","Ultra Rare",78.83,"https://images.ygoprodeck.com/images/cards_small/10000010.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"WSJ Jump Pack Spring 2018 promotional card","rows":[["The Winged Dragon of Ra","JMPS-EN006","Ultra Rare",78.83,"https://images.ygoprodeck.com/images/cards_small/10000010.jpg","Effect Monster",0]]};

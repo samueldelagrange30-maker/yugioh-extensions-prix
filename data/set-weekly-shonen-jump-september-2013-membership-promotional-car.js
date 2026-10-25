@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump September 2013 membership promotional card","rows":[["Vulcan the Divine","JUMP-EN066","Ultra Rare",5.08,"https://images.ygoprodeck.com/images/cards_small/98012938.jpg","Synchro Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump September 2013 membership promotional card","rows":[["Vulcan the Divine","JUMP-EN066","Ultra Rare",5.08,"https://images.ygoprodeck.com/images/cards_small/98012938.jpg","Synchro Monster",0]]};

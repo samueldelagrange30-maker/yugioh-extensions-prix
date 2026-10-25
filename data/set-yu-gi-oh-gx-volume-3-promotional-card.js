@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 3 promotional card","rows":[["Winged Kuriboh LV9","YG03-EN001","Ultra Rare",14.06,"https://images.ygoprodeck.com/images/cards_small/33776734.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 3 promotional card","rows":[["Winged Kuriboh LV9","YG03-EN001","Ultra Rare",14.06,"https://images.ygoprodeck.com/images/cards_small/33776734.jpg","Effect Monster",0]]};

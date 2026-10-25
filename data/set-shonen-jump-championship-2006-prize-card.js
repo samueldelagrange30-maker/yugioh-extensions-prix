@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Championship 2006 Prize Card","rows":[["Shrink","SJC-EN003","Ultra Rare",18530.0,"https://images.ygoprodeck.com/images/cards_small/55713623.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Shonen Jump Championship 2006 Prize Card","rows":[["Shrink","SJC-EN003","Ultra Rare",18530.0,"https://images.ygoprodeck.com/images/cards_small/55713623.jpg","Spell Card",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump July 2018 membership promotional card","rows":[["Shooting Riser Dragon","JUMP-EN085","Ultra Rare",13.59,"https://images.ygoprodeck.com/images/cards_small/68431965.jpg","Synchro Tuner Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump July 2018 membership promotional card","rows":[["Shooting Riser Dragon","JUMP-EN085","Ultra Rare",13.59,"https://images.ygoprodeck.com/images/cards_small/68431965.jpg","Synchro Tuner Monster",0]]};

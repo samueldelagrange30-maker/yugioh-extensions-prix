@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump October 2015 membership promotional card","rows":[["Beast-Eyes Pendulum Dragon","JUMP-EN074","Ultra Rare",5.48,"https://images.ygoprodeck.com/images/cards_small/72378329.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump October 2015 membership promotional card","rows":[["Beast-Eyes Pendulum Dragon","JUMP-EN074","Ultra Rare",5.48,"https://images.ygoprodeck.com/images/cards_small/72378329.jpg","Fusion Monster",0]]};

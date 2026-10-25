@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Mattel Action Figure promotional cards: Series 1","rows":[["Elemental HERO Thunder Giant","MF01-EN001","Normal Parallel Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/61204971.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"Mattel Action Figure promotional cards: Series 1","rows":[["Elemental HERO Thunder Giant","MF01-EN001","Normal Parallel Rare",0.42,"https://images.ygoprodeck.com/images/cards_small/61204971.jpg","Fusion Monster",2]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Code of the Duelist Sneak Peek Participation Card","rows":[["Vendread Houndhorde","COTD-ENSP1","Ultra Rare",2.3,"https://images.ygoprodeck.com/images/cards_small/67267333.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Code of the Duelist Sneak Peek Participation Card","rows":[["Vendread Houndhorde","COTD-ENSP1","Ultra Rare",2.3,"https://images.ygoprodeck.com/images/cards_small/67267333.jpg","Effect Monster",0]]};

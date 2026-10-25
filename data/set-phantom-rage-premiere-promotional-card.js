@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Phantom Rage Premiere! promotional card","rows":[["Tri-Brigade Airborne Assault","PHRA-ENSP1","Ultra Rare",18.24,"https://images.ygoprodeck.com/images/cards_small/51097887.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Phantom Rage Premiere! promotional card","rows":[["Tri-Brigade Airborne Assault","PHRA-ENSP1","Ultra Rare",18.24,"https://images.ygoprodeck.com/images/cards_small/51097887.jpg","Spell Card",0]]};

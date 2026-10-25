@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion H","rows":[["Lesser Fiend","LART-EN008","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/16475472.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion H","rows":[["Lesser Fiend","LART-EN008","Ultra Rare",0.13,"https://images.ygoprodeck.com/images/cards_small/16475472.jpg","Effect Monster",2]]};

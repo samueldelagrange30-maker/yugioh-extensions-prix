@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! R Volume 3 promotional card","rows":[["Gorz the Emissary of Darkness","YR01-EN003","Ultra Rare",13.38,"https://images.ygoprodeck.com/images/cards_small/44330098.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! R Volume 3 promotional card","rows":[["Gorz the Emissary of Darkness","YR01-EN003","Ultra Rare",13.38,"https://images.ygoprodeck.com/images/cards_small/44330098.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Blue-Eyes Alternative White Dragon Sweepstakes","rows":[["Blue-Eyes Alternative White Dragon","SBPR-EN003","Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/38517737.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Blue-Eyes Alternative White Dragon Sweepstakes","rows":[["Blue-Eyes Alternative White Dragon","SBPR-EN003","Secret Rare",0.1,"https://images.ygoprodeck.com/images/cards_small/38517737.jpg","Effect Monster",2]]};

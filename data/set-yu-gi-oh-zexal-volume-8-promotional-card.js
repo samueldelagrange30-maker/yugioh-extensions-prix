@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 8 promotional card","rows":[["Number S39: Utopia the Lightning","YZ08-EN001","Ultra Rare",8.63,"https://images.ygoprodeck.com/images/cards_small/56832966.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 8 promotional card","rows":[["Number S39: Utopia the Lightning","YZ08-EN001","Ultra Rare",8.63,"https://images.ygoprodeck.com/images/cards_small/56832966.jpg","XYZ Monster",0]]};

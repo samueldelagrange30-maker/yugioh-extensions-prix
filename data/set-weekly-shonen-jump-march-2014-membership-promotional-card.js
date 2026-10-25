@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump March 2014 membership promotional card","rows":[["Blue-Eyes White Dragon","JUMP-EN068","Ultra Rare",189.88,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump March 2014 membership promotional card","rows":[["Blue-Eyes White Dragon","JUMP-EN068","Ultra Rare",189.88,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster",0]]};

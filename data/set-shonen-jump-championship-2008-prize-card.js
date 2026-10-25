@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Championship 2008 Prize Card","rows":[["Doomcaliber Knight","SJCS-EN006","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/78700060.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Championship 2008 Prize Card","rows":[["Doomcaliber Knight","SJCS-EN006","Ultra Rare",0.14,"https://images.ygoprodeck.com/images/cards_small/78700060.jpg","Effect Monster",2]]};

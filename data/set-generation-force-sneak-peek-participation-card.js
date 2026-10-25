@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Generation Force Sneak Peek Participation Card","rows":[["Xyz Veil","GENF-ENSP1","Ultra Rare",5.18,"https://images.ygoprodeck.com/images/cards_small/96457619.jpg","Trap Card"]]};
+window.YGO_SET={"n":"Generation Force Sneak Peek Participation Card","rows":[["Xyz Veil","GENF-ENSP1","Ultra Rare",5.18,"https://images.ygoprodeck.com/images/cards_small/96457619.jpg","Trap Card",0]]};

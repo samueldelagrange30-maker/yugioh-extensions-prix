@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump Alpha July 2012 membership promotional card","rows":[["Slifer the Sky Dragon","JUMP-EN061","Ultra Rare",63.67,"https://images.ygoprodeck.com/images/cards_small/10000020.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump Alpha July 2012 membership promotional card","rows":[["Slifer the Sky Dragon","JUMP-EN061","Ultra Rare",63.67,"https://images.ygoprodeck.com/images/cards_small/10000020.jpg","Effect Monster",0]]};

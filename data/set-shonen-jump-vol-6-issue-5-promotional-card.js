@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 5 promotional card","rows":[["Cyber Dinosaur","JUMP-EN024","Ultra Rare",3.81,"https://images.ygoprodeck.com/images/cards_small/39439590.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 5 promotional card","rows":[["Cyber Dinosaur","JUMP-EN024","Ultra Rare",3.81,"https://images.ygoprodeck.com/images/cards_small/39439590.jpg","Effect Monster",0]]};

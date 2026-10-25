@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Remote Duel at Home Sweepstakes","rows":[["United We Stand","SBPR-EN001","Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/56747793.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Remote Duel at Home Sweepstakes","rows":[["United We Stand","SBPR-EN001","Secret Rare",0.35,"https://images.ygoprodeck.com/images/cards_small/56747793.jpg","Spell Card",2]]};

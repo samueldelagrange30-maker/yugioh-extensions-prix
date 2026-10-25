@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 6 promotional card","rows":[["Meklord Emperor Granel","JUMP-EN052","Ultra Rare",4.08,"https://images.ygoprodeck.com/images/cards_small/4545683.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 6 promotional card","rows":[["Meklord Emperor Granel","JUMP-EN052","Ultra Rare",4.08,"https://images.ygoprodeck.com/images/cards_small/4545683.jpg","Effect Monster",0]]};

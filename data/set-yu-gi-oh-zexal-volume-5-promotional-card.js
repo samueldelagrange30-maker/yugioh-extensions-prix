@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 5 promotional card","rows":[["Number 72: Shogi Rook","YZ05-EN001","Ultra Rare",17.7,"https://images.ygoprodeck.com/images/cards_small/75253697.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 5 promotional card","rows":[["Number 72: Shogi Rook","YZ05-EN001","Ultra Rare",17.7,"https://images.ygoprodeck.com/images/cards_small/75253697.jpg","XYZ Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Elemental Energy Sneak Peek Participation Card","rows":[["Exchange of the Spirit","SP1-EN004","Ultra Rare",18.92,"https://images.ygoprodeck.com/images/cards_small/17484499.jpg","Trap Card"]]};
+window.YGO_SET={"n":"Elemental Energy Sneak Peek Participation Card","rows":[["Exchange of the Spirit","SP1-EN004","Ultra Rare",18.92,"https://images.ygoprodeck.com/images/cards_small/17484499.jpg","Trap Card",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Trials of the Pharaoh - Speed Duel: Battle City Box promotional card","rows":[["Book of Moon","OPTP-EN003","Super Rare",436.13,"https://images.ygoprodeck.com/images/cards_small/14087893.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Trials of the Pharaoh - Speed Duel: Battle City Box promotional card","rows":[["Book of Moon","OPTP-EN003","Super Rare",436.13,"https://images.ygoprodeck.com/images/cards_small/14087893.jpg","Spell Card",0]]};

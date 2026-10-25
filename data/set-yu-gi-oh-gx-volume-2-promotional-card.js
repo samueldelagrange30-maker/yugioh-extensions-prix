@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 2 promotional card","rows":[["Thunder King Rai-Oh","YG02-EN001","Secret Rare",59.39,"https://images.ygoprodeck.com/images/cards_small/71564252.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 2 promotional card","rows":[["Thunder King Rai-Oh","YG02-EN001","Secret Rare",59.39,"https://images.ygoprodeck.com/images/cards_small/71564252.jpg","Effect Monster",0]]};

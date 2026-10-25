@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Legacy of the Valiant Sneak Peek Participation Card","rows":[["Sylvan Bladefender","LVAL-ENSP1","Ultra Rare",1.68,"https://images.ygoprodeck.com/images/cards_small/11682713.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Legacy of the Valiant Sneak Peek Participation Card","rows":[["Sylvan Bladefender","LVAL-ENSP1","Ultra Rare",1.68,"https://images.ygoprodeck.com/images/cards_small/11682713.jpg","Effect Monster",0]]};

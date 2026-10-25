@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 4 participation card A","rows":[["Exiled Force","HL04-EN001","Ultra Parallel Rare",12.14,"https://images.ygoprodeck.com/images/cards_small/74131780.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Hobby League 4 participation card A","rows":[["Exiled Force","HL04-EN001","Ultra Parallel Rare",12.14,"https://images.ygoprodeck.com/images/cards_small/74131780.jpg","Effect Monster",0]]};

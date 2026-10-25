@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 6 participation card B","rows":[["Limiter Removal","HL06-EN002","Ultra Parallel Rare",16.51,"https://images.ygoprodeck.com/images/cards_small/23171610.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Hobby League 6 participation card B","rows":[["Limiter Removal","HL06-EN002","Ultra Parallel Rare",16.51,"https://images.ygoprodeck.com/images/cards_small/23171610.jpg","Spell Card",0]]};

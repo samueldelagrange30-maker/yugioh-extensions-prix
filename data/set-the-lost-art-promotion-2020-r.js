@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2020 R","rows":[["Tragedy","LART-EN030","Ultra Rare",7.37,"https://images.ygoprodeck.com/images/cards_small/35686188.jpg","Trap Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2020 R","rows":[["Tragedy","LART-EN030","Ultra Rare",7.37,"https://images.ygoprodeck.com/images/cards_small/35686188.jpg","Trap Card",0]]};

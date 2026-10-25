@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Raging Tempest Sneak Peek Participation Card","rows":[["Fusion Recycling Plant","RATE-ENSP1","Ultra Rare",7.5,"https://images.ygoprodeck.com/images/cards_small/22829942.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Raging Tempest Sneak Peek Participation Card","rows":[["Fusion Recycling Plant","RATE-ENSP1","Ultra Rare",7.5,"https://images.ygoprodeck.com/images/cards_small/22829942.jpg","Spell Card",0]]};

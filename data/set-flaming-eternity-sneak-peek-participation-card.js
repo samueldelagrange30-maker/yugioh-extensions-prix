@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Flaming Eternity Sneak Peek Participation Card","rows":[["Cyber Harpie Lady","SP1-EN001","Ultra Rare",19.61,"https://images.ygoprodeck.com/images/cards_small/80316585.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Flaming Eternity Sneak Peek Participation Card","rows":[["Cyber Harpie Lady","SP1-EN001","Ultra Rare",19.61,"https://images.ygoprodeck.com/images/cards_small/80316585.jpg","Effect Monster",0]]};

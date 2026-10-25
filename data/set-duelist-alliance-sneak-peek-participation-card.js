@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duelist Alliance Sneak Peek Participation Card","rows":[["Dragon Horn Hunter","DUEA-ENSP1","Ultra Rare",2.71,"https://images.ygoprodeck.com/images/cards_small/21970285.jpg","Pendulum Normal Monster"]]};
+window.YGO_SET={"n":"Duelist Alliance Sneak Peek Participation Card","rows":[["Dragon Horn Hunter","DUEA-ENSP1","Ultra Rare",2.71,"https://images.ygoprodeck.com/images/cards_small/21970285.jpg","Pendulum Normal Monster",0]]};

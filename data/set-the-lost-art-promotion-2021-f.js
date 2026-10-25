@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 F","rows":[["Celestia, Lightsworn Angel","LART-EN036","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/94381039.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 F","rows":[["Celestia, Lightsworn Angel","LART-EN036","Ultra Rare",0.34,"https://images.ygoprodeck.com/images/cards_small/94381039.jpg","Effect Monster",2]]};

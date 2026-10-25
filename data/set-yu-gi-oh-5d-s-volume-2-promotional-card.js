@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! 5D's Volume 2 promotional card","rows":[["Catapult Warrior","YF02-EN001","Ultra Rare",6.89,"https://images.ygoprodeck.com/images/cards_small/37474917.jpg","Synchro Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! 5D's Volume 2 promotional card","rows":[["Catapult Warrior","YF02-EN001","Ultra Rare",6.89,"https://images.ygoprodeck.com/images/cards_small/37474917.jpg","Synchro Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"WSJ Jump Pack Spring 2016 promotional card","rows":[["Blue-Eyes White Dragon","JMPS-EN002","Ultra Rare",999.99,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster"]]};
+window.YGO_SET={"n":"WSJ Jump Pack Spring 2016 promotional card","rows":[["Blue-Eyes White Dragon","JMPS-EN002","Ultra Rare",999.99,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster",0]]};

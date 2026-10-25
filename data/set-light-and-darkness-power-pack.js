@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Light and Darkness Power Pack","rows":[["Light and Darkness Dragon","LDPP-EN001","Ultra Rare",9.48,"https://images.ygoprodeck.com/images/cards_small/47297616.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Light and Darkness Power Pack","rows":[["Light and Darkness Dragon","LDPP-EN001","Ultra Rare",9.48,"https://images.ygoprodeck.com/images/cards_small/47297616.jpg","Effect Monster",0]]};

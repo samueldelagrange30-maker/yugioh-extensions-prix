@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2023 F","rows":[["Zombyra the Dark","LART-EN059","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/88472456.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2023 F","rows":[["Zombyra the Dark","LART-EN059","Ultra Rare",0.92,"https://images.ygoprodeck.com/images/cards_small/88472456.jpg","Effect Monster",2]]};

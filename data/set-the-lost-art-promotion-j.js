@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion J","rows":[["Dark Ruler Ha Des","LART-EN010","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/53982768.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion J","rows":[["Dark Ruler Ha Des","LART-EN010","Ultra Rare",0.16,"https://images.ygoprodeck.com/images/cards_small/53982768.jpg","Effect Monster",2]]};

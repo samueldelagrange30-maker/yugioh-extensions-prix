@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 A","rows":[["Raging Eria","LART-EN031","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/56524813.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 A","rows":[["Raging Eria","LART-EN031","Ultra Rare",0.23,"https://images.ygoprodeck.com/images/cards_small/56524813.jpg","Effect Monster",2]]};

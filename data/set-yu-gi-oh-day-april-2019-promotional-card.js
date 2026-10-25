@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! Day April 2019 promotional card","rows":[["Destiny Draw (Skill Card)","YDPR-ENS01","Ultra Rare",4.95,"https://images.ygoprodeck.com/images/cards_small/300201002.jpg","Skill Card"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! Day April 2019 promotional card","rows":[["Destiny Draw (Skill Card)","YDPR-ENS01","Ultra Rare",4.95,"https://images.ygoprodeck.com/images/cards_small/300201002.jpg","Skill Card",0]]};

@@ -9,3 +9,4 @@ th{cursor:pointer;background:#231c36;color:var(--gold);position:sticky;top:0}tr:
 img.th{width:40px;height:58px;object-fit:cover;border-radius:3px}.mut{color:var(--mut);font-size:.85em}.warn{color:#e57}
 footer{text-align:center;color:var(--mut);padding:20px;font-size:.85em}
 @media(max-width:700px){.hide-m{display:none}th,td{padding:5px;font-size:.9em}}
+.est{color:#9ecbff;cursor:help;border-bottom:1px dotted}

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Extreme Victory Sneak Peek Participation Card","rows":[["Reborn Tengu","EXVC-ENSP1","Ultra Rare",8.41,"https://images.ygoprodeck.com/images/cards_small/10028593.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Extreme Victory Sneak Peek Participation Card","rows":[["Reborn Tengu","EXVC-ENSP1","Ultra Rare",8.41,"https://images.ygoprodeck.com/images/cards_small/10028593.jpg","Effect Monster",0]]};

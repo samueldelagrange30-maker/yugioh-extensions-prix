@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 J","rows":[["Enchanting Fitting Room","LART-EN040","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/30531525.jpg","Spell Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 J","rows":[["Enchanting Fitting Room","LART-EN040","Ultra Rare",0.2,"https://images.ygoprodeck.com/images/cards_small/30531525.jpg","Spell Card",2]]};

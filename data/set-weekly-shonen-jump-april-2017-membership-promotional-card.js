@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump April 2017 membership promotional card","rows":[["Apprentice Illusion Magician","JUMP-EN080","Ultra Rare",29.86,"https://images.ygoprodeck.com/images/cards_small/30603688.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump April 2017 membership promotional card","rows":[["Apprentice Illusion Magician","JUMP-EN080","Ultra Rare",29.86,"https://images.ygoprodeck.com/images/cards_small/30603688.jpg","Effect Monster",0]]};

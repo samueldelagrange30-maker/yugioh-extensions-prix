@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion A","rows":[["Monster Reborn","LART-EN001","Ultra Rare",62.69,"https://images.ygoprodeck.com/images/cards_small/83764719.jpg","Spell Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion A","rows":[["Monster Reborn","LART-EN001","Ultra Rare",62.69,"https://images.ygoprodeck.com/images/cards_small/83764719.jpg","Spell Card",0]]};

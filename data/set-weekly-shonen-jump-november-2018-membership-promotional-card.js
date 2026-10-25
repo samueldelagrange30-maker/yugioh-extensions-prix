@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump November 2018 membership promotional card","rows":[["Chaos Emperor Dragon - Envoy of the End","JUMP-EN086","Ultra Rare",29.11,"https://images.ygoprodeck.com/images/cards_small/82301904.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump November 2018 membership promotional card","rows":[["Chaos Emperor Dragon - Envoy of the End","JUMP-EN086","Ultra Rare",29.11,"https://images.ygoprodeck.com/images/cards_small/82301904.jpg","Effect Monster",0]]};

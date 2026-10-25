@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 L","rows":[["Foolish Return","LART-EN042","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/88369727.jpg","Spell Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 L","rows":[["Foolish Return","LART-EN042","Ultra Rare",0.08,"https://images.ygoprodeck.com/images/cards_small/88369727.jpg","Spell Card",2]]};

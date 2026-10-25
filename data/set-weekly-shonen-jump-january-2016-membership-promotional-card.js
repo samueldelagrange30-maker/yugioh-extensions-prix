@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump January 2016 membership promotional card","rows":[["Dystopia the Despondent","JUMP-EN075","Ultra Rare",16.09,"https://images.ygoprodeck.com/images/cards_small/52085072.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump January 2016 membership promotional card","rows":[["Dystopia the Despondent","JUMP-EN075","Ultra Rare",16.09,"https://images.ygoprodeck.com/images/cards_small/52085072.jpg","Effect Monster",0]]};

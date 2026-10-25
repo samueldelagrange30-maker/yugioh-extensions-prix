@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! 3D Bonds Beyond Time DVD promotional card","rows":[["Malefic Red-Eyes Black Dragon","MOV2-EN001","Super Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/55343236.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! 3D Bonds Beyond Time DVD promotional card","rows":[["Malefic Red-Eyes Black Dragon","MOV2-EN001","Super Rare",0.51,"https://images.ygoprodeck.com/images/cards_small/55343236.jpg","Effect Monster",2]]};

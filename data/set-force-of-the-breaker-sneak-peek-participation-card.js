@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Force of the Breaker Sneak Peek Participation Card","rows":[["Volcanic Rocket","FOTB-ENSP1","Super Rare",11.45,"https://images.ygoprodeck.com/images/cards_small/76459806.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Force of the Breaker Sneak Peek Participation Card","rows":[["Volcanic Rocket","FOTB-ENSP1","Super Rare",11.45,"https://images.ygoprodeck.com/images/cards_small/76459806.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 3 promotional card","rows":[["Van'Dalgyon the Dark Dragon Lord","JUMP-EN023","Ultra Rare",6.41,"https://images.ygoprodeck.com/images/cards_small/24857466.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 3 promotional card","rows":[["Van'Dalgyon the Dark Dragon Lord","JUMP-EN023","Ultra Rare",6.41,"https://images.ygoprodeck.com/images/cards_small/24857466.jpg","Effect Monster",0]]};

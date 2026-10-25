@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 1 promotional card","rows":[["Obelisk the Tormentor","JUMP-EN037","Ultra Rare",15.71,"https://images.ygoprodeck.com/images/cards_small/10000000.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 1 promotional card","rows":[["Obelisk the Tormentor","JUMP-EN037","Ultra Rare",15.71,"https://images.ygoprodeck.com/images/cards_small/10000000.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2025 D","rows":[["Goddess of the Two Sides","LART-EN079","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/50915474.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2025 D","rows":[["Goddess of the Two Sides","LART-EN079","Ultra Rare",0.13,"https://images.ygoprodeck.com/images/cards_small/50915474.jpg","Effect Monster",2]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duelist League Series 5 participation card","rows":[["Restructer Revolution","DL5-EN001","Super Rare",2.57,"https://images.ygoprodeck.com/images/cards_small/99518961.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Duelist League Series 5 participation card","rows":[["Restructer Revolution","DL5-EN001","Super Rare",2.57,"https://images.ygoprodeck.com/images/cards_small/99518961.jpg","Spell Card",0]]};

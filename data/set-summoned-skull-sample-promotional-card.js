@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Summoned Skull Sample promotional card","rows":[["Summoned Skull","SDY-004","Common",0.0,"https://images.ygoprodeck.com/images/cards_small/70781052.jpg","Normal Monster"]]};
+window.YGO_SET={"n":"Summoned Skull Sample promotional card","rows":[["Summoned Skull","SDY-004","Common",0.51,"https://images.ygoprodeck.com/images/cards_small/70781052.jpg","Normal Monster",2]]};

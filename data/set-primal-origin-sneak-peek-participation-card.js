@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Primal Origin Sneak Peek Participation Card","rows":[["Artifact Scythe","PRIO-ENSP1","Ultra Rare",7.55,"https://images.ygoprodeck.com/images/cards_small/20292186.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Primal Origin Sneak Peek Participation Card","rows":[["Artifact Scythe","PRIO-ENSP1","Ultra Rare",7.55,"https://images.ygoprodeck.com/images/cards_small/20292186.jpg","Effect Monster",0]]};

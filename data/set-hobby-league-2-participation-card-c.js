@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 2 participation card C","rows":[["Sangan","HL2-EN003","Ultra Parallel Rare",27.53,"https://images.ygoprodeck.com/images/cards_small/26202165.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Hobby League 2 participation card C","rows":[["Sangan","HL2-EN003","Ultra Parallel Rare",27.53,"https://images.ygoprodeck.com/images/cards_small/26202165.jpg","Effect Monster",0]]};

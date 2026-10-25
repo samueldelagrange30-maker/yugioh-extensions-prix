@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2020 L","rows":[["Ghost Sister & Spooky Dogwood","LART-EN024","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/60643553.jpg","Tuner Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2020 L","rows":[["Ghost Sister & Spooky Dogwood","LART-EN024","Ultra Rare",0.2,"https://images.ygoprodeck.com/images/cards_small/60643553.jpg","Tuner Monster",2]]};

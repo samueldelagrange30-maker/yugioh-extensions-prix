@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Rising Rampage Sneak Peek Participation Card","rows":[["Tlakalel, His Malevolent Majesty","RIRA-ENSP1","Ultra Rare",6.3,"https://images.ygoprodeck.com/images/cards_small/82319644.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Rising Rampage Sneak Peek Participation Card","rows":[["Tlakalel, His Malevolent Majesty","RIRA-ENSP1","Ultra Rare",6.3,"https://images.ygoprodeck.com/images/cards_small/82319644.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2025 B","rows":[["Magical Musketeer Calamity","LART-EN077","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/68024506.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2025 B","rows":[["Magical Musketeer Calamity","LART-EN077","Ultra Rare",0.63,"https://images.ygoprodeck.com/images/cards_small/68024506.jpg","Effect Monster",2]]};

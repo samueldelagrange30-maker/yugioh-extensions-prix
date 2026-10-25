@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Championship 2007 Prize Card A","rows":[["Crush Card Virus","SJCS-EN004","Ultra Rare",115033.33,"https://images.ygoprodeck.com/images/cards_small/57728570.jpg","Trap Card"]]};
+window.YGO_SET={"n":"Shonen Jump Championship 2007 Prize Card A","rows":[["Crush Card Virus","SJCS-EN004","Ultra Rare",115033.33,"https://images.ygoprodeck.com/images/cards_small/57728570.jpg","Trap Card",0]]};

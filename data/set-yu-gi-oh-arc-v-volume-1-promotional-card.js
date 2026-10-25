@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 1 promotional card","rows":[["Odd-Eyes Phantom Dragon","YA01-EN001","Ultra Rare",12.88,"https://images.ygoprodeck.com/images/cards_small/93149655.jpg","Pendulum Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 1 promotional card","rows":[["Odd-Eyes Phantom Dragon","YA01-EN001","Ultra Rare",12.88,"https://images.ygoprodeck.com/images/cards_small/93149655.jpg","Pendulum Effect Monster",0]]};

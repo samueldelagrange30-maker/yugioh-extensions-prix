@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Crocs collaboration card","rows":[["Crocodile","CRC1-EN001","Normal Parallel Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/77699839.jpg","Normal Monster"]]};
+window.YGO_SET={"n":"Crocs collaboration card","rows":[["Crocodile","CRC1-EN001","Normal Parallel Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/77699839.jpg","Normal Monster",3]]};

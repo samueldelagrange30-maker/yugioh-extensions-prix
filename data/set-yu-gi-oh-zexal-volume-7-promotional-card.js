@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 7 promotional card","rows":[["Number 23: Lancelot, Dark Knight of the Underworld","YZ07-EN001","Ultra Rare",31.29,"https://images.ygoprodeck.com/images/cards_small/66547759.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 7 promotional card","rows":[["Number 23: Lancelot, Dark Knight of the Underworld","YZ07-EN001","Ultra Rare",31.29,"https://images.ygoprodeck.com/images/cards_small/66547759.jpg","XYZ Monster",0]]};

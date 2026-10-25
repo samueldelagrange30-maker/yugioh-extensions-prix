@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 7 participation card D","rows":[["Red Gadget","HL07-EN004","Ultra Parallel Rare",7.1,"https://images.ygoprodeck.com/images/cards_small/86445415.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Hobby League 7 participation card D","rows":[["Red Gadget","HL07-EN004","Ultra Parallel Rare",7.1,"https://images.ygoprodeck.com/images/cards_small/86445415.jpg","Effect Monster",0]]};

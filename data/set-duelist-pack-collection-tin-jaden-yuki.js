@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duelist Pack Collection Tin: Jaden Yuki","rows":[["Elemental HERO Prisma","DPCT-EN002","Ultra Rare",17.88,"https://images.ygoprodeck.com/images/cards_small/89312388.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Duelist Pack Collection Tin: Jaden Yuki","rows":[["Elemental HERO Prisma","DPCT-EN002","Ultra Rare",17.88,"https://images.ygoprodeck.com/images/cards_small/89312388.jpg","Effect Monster",0]]};

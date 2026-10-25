@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shadow of Infinity Sneak Peek Participation Card","rows":[["Ancient Lamp","SP2-EN001","Ultra Rare",3.01,"https://images.ygoprodeck.com/images/cards_small/54912977.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shadow of Infinity Sneak Peek Participation Card","rows":[["Ancient Lamp","SP2-EN001","Ultra Rare",3.01,"https://images.ygoprodeck.com/images/cards_small/54912977.jpg","Effect Monster",0]]};

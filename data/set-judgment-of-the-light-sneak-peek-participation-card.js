@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Judgment of the Light Sneak Peek Participation Card","rows":[["Galaxy Serpent","JOTL-ENSP1","Ultra Rare",4.06,"https://images.ygoprodeck.com/images/cards_small/11066358.jpg","Normal Tuner Monster"]]};
+window.YGO_SET={"n":"Judgment of the Light Sneak Peek Participation Card","rows":[["Galaxy Serpent","JOTL-ENSP1","Ultra Rare",4.06,"https://images.ygoprodeck.com/images/cards_small/11066358.jpg","Normal Tuner Monster",0]]};

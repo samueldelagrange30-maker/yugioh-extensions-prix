@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Primal Origin Plus","rows":[["Sylvan Snapdrassinagon","PRIO-ENPL1","Starfoil Rare",6.16,"https://images.ygoprodeck.com/images/cards_small/47741109.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Primal Origin Plus","rows":[["Sylvan Snapdrassinagon","PRIO-ENPL1","Starfoil Rare",6.16,"https://images.ygoprodeck.com/images/cards_small/47741109.jpg","Effect Monster",0]]};

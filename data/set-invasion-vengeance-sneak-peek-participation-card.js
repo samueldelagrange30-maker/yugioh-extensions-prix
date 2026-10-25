@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Invasion: Vengeance Sneak Peek Participation Card","rows":[["Space Dragster","INOV-ENSP1","Ultra Rare",1.21,"https://images.ygoprodeck.com/images/cards_small/92092092.jpg","Trap Card"]]};
+window.YGO_SET={"n":"Invasion: Vengeance Sneak Peek Participation Card","rows":[["Space Dragster","INOV-ENSP1","Ultra Rare",1.21,"https://images.ygoprodeck.com/images/cards_small/92092092.jpg","Trap Card",0]]};

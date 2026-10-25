@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion M","rows":[["Super Rejuvenation","LART-EN013","Ultra Rare",7.29,"https://images.ygoprodeck.com/images/cards_small/27770341.jpg","Spell Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion M","rows":[["Super Rejuvenation","LART-EN013","Ultra Rare",7.29,"https://images.ygoprodeck.com/images/cards_small/27770341.jpg","Spell Card",0]]};

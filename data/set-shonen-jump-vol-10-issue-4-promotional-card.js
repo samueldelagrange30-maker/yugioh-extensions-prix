@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 10, Issue 4 promotional card","rows":[["Number 30: Acid Golem of Destruction","JUMP-EN059","Ultra Rare",4.45,"https://images.ygoprodeck.com/images/cards_small/81330115.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 10, Issue 4 promotional card","rows":[["Number 30: Acid Golem of Destruction","JUMP-EN059","Ultra Rare",4.45,"https://images.ygoprodeck.com/images/cards_small/81330115.jpg","XYZ Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 5, Issue 9 promotional card","rows":[["The Wicked Eraser","JUMP-EN016","Ultra Rare",8.77,"https://images.ygoprodeck.com/images/cards_small/57793869.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 5, Issue 9 promotional card","rows":[["The Wicked Eraser","JUMP-EN016","Ultra Rare",8.77,"https://images.ygoprodeck.com/images/cards_small/57793869.jpg","Effect Monster",0]]};

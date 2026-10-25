@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 7, Issue 3 promotional card","rows":[["Chimeratech Fortress Dragon","JUMP-EN031","Ultra Rare",15.72,"https://images.ygoprodeck.com/images/cards_small/79229522.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 7, Issue 3 promotional card","rows":[["Chimeratech Fortress Dragon","JUMP-EN031","Ultra Rare",15.72,"https://images.ygoprodeck.com/images/cards_small/79229522.jpg","Fusion Monster",0]]};

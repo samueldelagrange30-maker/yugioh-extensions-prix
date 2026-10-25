@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"GX Next Generation","rows":[["White-Horned Dragon","GXNG-EN001","Ultra Rare",13.9,"https://images.ygoprodeck.com/images/cards_small/73891874.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"GX Next Generation","rows":[["White-Horned Dragon","GXNG-EN001","Ultra Rare",13.9,"https://images.ygoprodeck.com/images/cards_small/73891874.jpg","Effect Monster",0]]};

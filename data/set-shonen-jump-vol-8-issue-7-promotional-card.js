@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 7 promotional card","rows":[["Golem Dragon","JUMP-EN040","Ultra Rare",5.91,"https://images.ygoprodeck.com/images/cards_small/9666558.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 7 promotional card","rows":[["Golem Dragon","JUMP-EN040","Ultra Rare",5.91,"https://images.ygoprodeck.com/images/cards_small/9666558.jpg","Effect Monster",0]]};

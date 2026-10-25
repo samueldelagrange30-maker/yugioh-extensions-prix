@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 5, Issue 4 promotional card","rows":[["Elemental HERO Stratos","JUMP-EN012","Ultra Rare",17.03,"https://images.ygoprodeck.com/images/cards_small/40044918.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 5, Issue 4 promotional card","rows":[["Elemental HERO Stratos","JUMP-EN012","Ultra Rare",17.03,"https://images.ygoprodeck.com/images/cards_small/40044918.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Palladium Oracle Mahad Sweepstakes","rows":[["Palladium Oracle Mahad","SBPR-EN004","Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/71703785.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Palladium Oracle Mahad Sweepstakes","rows":[["Palladium Oracle Mahad","SBPR-EN004","Secret Rare",1.97,"https://images.ygoprodeck.com/images/cards_small/71703785.jpg","Effect Monster",2]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Cybernetic Horizon Sneak Peek Participation Card","rows":[["Contact Gate","CYHO-ENSP1","Ultra Rare",3.14,"https://images.ygoprodeck.com/images/cards_small/41933425.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Cybernetic Horizon Sneak Peek Participation Card","rows":[["Contact Gate","CYHO-ENSP1","Ultra Rare",3.14,"https://images.ygoprodeck.com/images/cards_small/41933425.jpg","Spell Card",0]]};

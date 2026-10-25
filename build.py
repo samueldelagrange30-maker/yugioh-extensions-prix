@@ -13,25 +13,43 @@ def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')[:60] or 'set'
 def price(p):
     try: return float(p)
     except: return 0.0
-sets={}
+# Cascade de prix par impression: src 0=exact, 1=impression soeur (même carte/extension/rareté), 2=prix moyen carte, 3=indispo
+def num(code): m=re.search(r'(\d+)$',code or ''); return int(m.group(1)) if m else None
+sets={};dups=0
 for c in cards:
     img=c['card_images'][0]['image_url_small'] if c.get('card_images') else ''
+    cp=(c.get('card_prices') or [{}])[0]
+    cardp=price(cp.get('tcgplayer_price'))
+    if cardp<=0: cardp=next((price(cp.get(k)) for k in ('ebay_price','amazon_price','coolstuffinc_price') if price(cp.get(k))>0),0.0)
+    seen=set();prs=[]
     for p in c.get('card_sets') or []:
-        sets.setdefault(p['set_name'],[]).append([c['name'],p.get('set_code',''),p.get('set_rarity',''),round(price(p.get('set_price')),2),img,c.get('type','')])
+        key=(p['set_name'],p.get('set_code',''),p.get('set_rarity',''))
+        if key in seen: dups+=1; continue
+        seen.add(key);prs.append(p)
+    for p in prs:
+        v=price(p.get('set_price'));src=0
+        if v<=0:
+            sib=[price(q.get('set_price')) for q in prs if q is not p and q['set_name']==p['set_name'] and q.get('set_rarity')==p.get('set_rarity') and price(q.get('set_price'))>0]
+            same=[x for q,x in zip(prs,[price(q.get('set_price')) for q in prs]) if q is not p and q['set_name']==p['set_name'] and q.get('set_rarity')==p.get('set_rarity') and x>0 and num(q.get('set_code'))==num(p.get('set_code'))]
+            if same or sib: v=(same or sib)[0];src=1
+            elif cardp>0: v=cardp;src=2
+            else: src=3
+        sets.setdefault(p['set_name'],[]).append([c['name'],p.get('set_code',''),p.get('set_rarity',''),round(v,2),img,c.get('type',''),src])
 os.makedirs(D,exist_ok=True)
 for f in os.listdir(D): os.remove(os.path.join(D,f))
-idx=[];used=set();grand=0;n=0
+idx=[];used=set();grand=0;n=0;cnt=[0,0,0,0]
 for name,rows in sets.items():
     s=slug(name);k=s;i=2
     while k in used: k=f'{s}-{i}';i+=1
     used.add(k)
-    tot=round(sum(r[3] for r in rows),2); miss=sum(1 for r in rows if r[3]==0)
+    tot=round(sum(r[3] for r in rows),2); miss=sum(1 for r in rows if r[6]==3); est=round(sum(r[3] for r in rows if r[6] in(1,2)),2); ne=sum(1 for r in rows if r[6] in(1,2))
     m=meta.get(name,{})
-    idx.append(dict(n=name,s=k,c=(m.get('set_code') or (rows[0][1].split('-')[0])),d=m.get('tcg_date',''),p=len(rows),t=tot,m=miss,i=m.get('set_image','')))
+    idx.append(dict(n=name,s=k,c=(m.get('set_code') or (rows[0][1].split('-')[0])),d=m.get('tcg_date',''),p=len(rows),t=tot,m=miss,e=est,ne=ne,i=m.get('set_image','')))
     grand+=tot;n+=len(rows)
+    for r in rows: cnt[r[6]]+=1
     with open(os.path.join(D,f'set-{k}.js'),'w') as f:
         f.write('window.YGO_SET='+json.dumps(dict(n=name,rows=rows),ensure_ascii=False,separators=(',',':'))+';')
-info=dict(date=datetime.date.today().isoformat(),grand=round(grand,2),printings=n,sets=len(idx))
+info=dict(date=datetime.date.today().isoformat(),grand=round(grand,2),printings=n,sets=len(idx),src=cnt,dups=dups,est=round(sum(x['e'] for x in idx),2))
 with open(os.path.join(D,'sets-index.js'),'w') as f:
     f.write('window.YGO_INFO='+json.dumps(info)+';window.YGO_SETS='+json.dumps(idx,ensure_ascii=False,separators=(',',':'))+';')
 print(info)

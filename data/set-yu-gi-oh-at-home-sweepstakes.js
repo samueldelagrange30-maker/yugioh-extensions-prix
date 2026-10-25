@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! at Home Sweepstakes","rows":[["Guardian Angel Joan","SBPR-EN002","Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/68007326.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! at Home Sweepstakes","rows":[["Guardian Angel Joan","SBPR-EN002","Secret Rare",0.36,"https://images.ygoprodeck.com/images/cards_small/68007326.jpg","Effect Monster",2]]};

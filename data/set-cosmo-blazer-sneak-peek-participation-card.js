@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Cosmo Blazer Sneak Peek Participation Card","rows":[["Noble Arms - Caliburn","CBLZ-ENSP1","Ultra Rare",2.93,"https://images.ygoprodeck.com/images/cards_small/23562407.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Cosmo Blazer Sneak Peek Participation Card","rows":[["Noble Arms - Caliburn","CBLZ-ENSP1","Ultra Rare",2.93,"https://images.ygoprodeck.com/images/cards_small/23562407.jpg","Spell Card",0]]};

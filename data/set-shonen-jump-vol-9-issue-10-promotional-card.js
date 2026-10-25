@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 10 promotional card","rows":[["Endless Decay","JUMP-EN056","Ultra Rare",3.93,"https://images.ygoprodeck.com/images/cards_small/7845138.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 10 promotional card","rows":[["Endless Decay","JUMP-EN056","Ultra Rare",3.93,"https://images.ygoprodeck.com/images/cards_small/7845138.jpg","Effect Monster",0]]};

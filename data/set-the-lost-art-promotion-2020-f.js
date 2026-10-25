@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2020 F","rows":[["Superdreadnought Rail Cannon Gustav Max","LART-EN018","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/56910167.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2020 F","rows":[["Superdreadnought Rail Cannon Gustav Max","LART-EN018","Ultra Rare",0.14,"https://images.ygoprodeck.com/images/cards_small/56910167.jpg","XYZ Monster",2]]};

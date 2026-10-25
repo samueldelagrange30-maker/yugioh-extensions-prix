@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 2 participation card F","rows":[["Fissure","HL2-EN006","Ultra Parallel Rare",13.08,"https://images.ygoprodeck.com/images/cards_small/66788016.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Hobby League 2 participation card F","rows":[["Fissure","HL2-EN006","Ultra Parallel Rare",13.08,"https://images.ygoprodeck.com/images/cards_small/66788016.jpg","Spell Card",0]]};

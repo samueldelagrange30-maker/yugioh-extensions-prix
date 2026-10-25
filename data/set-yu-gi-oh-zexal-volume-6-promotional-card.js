@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 6 promotional card","rows":[["Number 52: Diamond Crab King","YZ06-EN001","Ultra Rare",22.95,"https://images.ygoprodeck.com/images/cards_small/7194917.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 6 promotional card","rows":[["Number 52: Diamond Crab King","YZ06-EN001","Ultra Rare",22.95,"https://images.ygoprodeck.com/images/cards_small/7194917.jpg","XYZ Monster",0]]};

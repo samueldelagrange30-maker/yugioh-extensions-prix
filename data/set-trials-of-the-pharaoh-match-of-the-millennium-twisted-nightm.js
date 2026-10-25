@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Trials of the Pharaoh - Match of the Millennium & Twisted Nightmares promotional card","rows":[["Jinzo","OPTP-EN002","Ultra Rare",219.41,"https://images.ygoprodeck.com/images/cards_small/77585513.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Trials of the Pharaoh - Match of the Millennium & Twisted Nightmares promotional card","rows":[["Jinzo","OPTP-EN002","Ultra Rare",219.41,"https://images.ygoprodeck.com/images/cards_small/77585513.jpg","Effect Monster",0]]};

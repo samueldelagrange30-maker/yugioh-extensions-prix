@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Crimson Crisis Sneak Peek Participation Card","rows":[["Colossal Fighter/Assault Mode","CRMS-ENSP1","Super Rare",5.71,"https://images.ygoprodeck.com/images/cards_small/38898779.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Crimson Crisis Sneak Peek Participation Card","rows":[["Colossal Fighter/Assault Mode","CRMS-ENSP1","Super Rare",5.71,"https://images.ygoprodeck.com/images/cards_small/38898779.jpg","Effect Monster",0]]};

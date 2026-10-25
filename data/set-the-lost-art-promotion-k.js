@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion K","rows":[["Soul Drain","LART-EN011","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/73599290.jpg","Trap Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion K","rows":[["Soul Drain","LART-EN011","Ultra Rare",3.63,"https://images.ygoprodeck.com/images/cards_small/73599290.jpg","Trap Card",2]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump March 2013 membership promotional card","rows":[["Number 88: Gimmick Puppet of Leo","JUMP-EN064","Ultra Rare",12.13,"https://images.ygoprodeck.com/images/cards_small/48995978.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump March 2013 membership promotional card","rows":[["Number 88: Gimmick Puppet of Leo","JUMP-EN064","Ultra Rare",12.13,"https://images.ygoprodeck.com/images/cards_small/48995978.jpg","XYZ Monster",0]]};

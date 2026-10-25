@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 3 participation card F","rows":[["Royal Decree","HL03-EN006","Ultra Parallel Rare",19.44,"https://images.ygoprodeck.com/images/cards_small/51452091.jpg","Trap Card"]]};
+window.YGO_SET={"n":"Hobby League 3 participation card F","rows":[["Royal Decree","HL03-EN006","Ultra Parallel Rare",19.44,"https://images.ygoprodeck.com/images/cards_small/51452091.jpg","Trap Card",0]]};

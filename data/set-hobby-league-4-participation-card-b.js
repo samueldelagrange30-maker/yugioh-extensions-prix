@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 4 participation card B","rows":[["Swords of Revealing Light","HL04-EN002","Ultra Parallel Rare",16.42,"https://images.ygoprodeck.com/images/cards_small/72302403.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Hobby League 4 participation card B","rows":[["Swords of Revealing Light","HL04-EN002","Ultra Parallel Rare",16.42,"https://images.ygoprodeck.com/images/cards_small/72302403.jpg","Spell Card",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion I","rows":[["Call of the Haunted","LART-EN009","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/97077563.jpg","Trap Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion I","rows":[["Call of the Haunted","LART-EN009","Ultra Rare",0.1,"https://images.ygoprodeck.com/images/cards_small/97077563.jpg","Trap Card",2]]};

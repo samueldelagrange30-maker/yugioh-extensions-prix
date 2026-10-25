@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 4 promotional card","rows":[["Number 47: Nightmare Shark","YZ04-EN001","Ultra Rare",11.93,"https://images.ygoprodeck.com/images/cards_small/31320433.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 4 promotional card","rows":[["Number 47: Nightmare Shark","YZ04-EN001","Ultra Rare",11.93,"https://images.ygoprodeck.com/images/cards_small/31320433.jpg","XYZ Monster",0]]};

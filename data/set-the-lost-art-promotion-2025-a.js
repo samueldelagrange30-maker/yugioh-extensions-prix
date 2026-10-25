@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2025 A","rows":[["Otohime","LART-EN076","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/39751094.jpg","Spirit Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2025 A","rows":[["Otohime","LART-EN076","Ultra Rare",0.11,"https://images.ygoprodeck.com/images/cards_small/39751094.jpg","Spirit Monster",2]]};

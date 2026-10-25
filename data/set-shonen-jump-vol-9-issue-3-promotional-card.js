@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 3 promotional card","rows":[["Malefic Truth Dragon","JUMP-EN048","Ultra Rare",14.32,"https://images.ygoprodeck.com/images/cards_small/37115575.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 3 promotional card","rows":[["Malefic Truth Dragon","JUMP-EN048","Ultra Rare",14.32,"https://images.ygoprodeck.com/images/cards_small/37115575.jpg","Effect Monster",0]]};

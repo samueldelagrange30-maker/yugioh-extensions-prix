@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Starstrike Blast Sneak Peek Participation Card","rows":[["Archfiend Empress","STBL-ENSP1","Ultra Rare",7.06,"https://images.ygoprodeck.com/images/cards_small/31766317.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Starstrike Blast Sneak Peek Participation Card","rows":[["Archfiend Empress","STBL-ENSP1","Ultra Rare",7.06,"https://images.ygoprodeck.com/images/cards_small/31766317.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Weekly Shonen Jump August 2014 membership promotional card","rows":[["Black Luster Soldier - Envoy of the Evening Twilight","JUMP-EN069","Ultra Rare",27.44,"https://images.ygoprodeck.com/images/cards_small/77498348.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Weekly Shonen Jump August 2014 membership promotional card","rows":[["Black Luster Soldier - Envoy of the Evening Twilight","JUMP-EN069","Ultra Rare",27.44,"https://images.ygoprodeck.com/images/cards_small/77498348.jpg","Effect Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Dark Crisis (25th Anniversary Edition)","rows":[["Maju Garzett","DCR-EN024","Common",0.0,"https://images.ygoprodeck.com/images/cards_small/8794435.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Dark Crisis (25th Anniversary Edition)","rows":[["Maju Garzett","DCR-EN024","Common",0.24,"https://images.ygoprodeck.com/images/cards_small/8794435.jpg","Effect Monster",2]]};

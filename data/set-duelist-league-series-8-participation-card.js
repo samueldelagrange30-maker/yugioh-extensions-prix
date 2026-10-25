@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duelist League Series 8 participation card","rows":[["Acid Rain","DL8-EN001","Super Rare",3.93,"https://images.ygoprodeck.com/images/cards_small/21323861.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Duelist League Series 8 participation card","rows":[["Acid Rain","DL8-EN001","Super Rare",3.93,"https://images.ygoprodeck.com/images/cards_small/21323861.jpg","Spell Card",0]]};

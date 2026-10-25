@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 G","rows":[["Barrel Dragon","LART-EN037","Ultra Rare",13.0,"https://images.ygoprodeck.com/images/cards_small/81480461.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 G","rows":[["Barrel Dragon","LART-EN037","Ultra Rare",13.0,"https://images.ygoprodeck.com/images/cards_small/81480461.jpg","Effect Monster",0]]};

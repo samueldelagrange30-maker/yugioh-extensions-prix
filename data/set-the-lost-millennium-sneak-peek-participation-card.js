@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Millennium Sneak Peek Participation Card","rows":[["Amazoness Chain Master","SP1-EN002","Ultra Rare",6.94,"https://images.ygoprodeck.com/images/cards_small/29654737.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"The Lost Millennium Sneak Peek Participation Card","rows":[["Amazoness Chain Master","SP1-EN002","Ultra Rare",6.94,"https://images.ygoprodeck.com/images/cards_small/29654737.jpg","Effect Monster",0]]};

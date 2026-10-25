@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Fire Fists: Special Edition","rows":[["Fire Formation - Tenki","FFSE-EN001","Super Rare",5.41,"https://images.ygoprodeck.com/images/cards_small/57103969.jpg","Spell Card"]]};
+window.YGO_SET={"n":"Fire Fists: Special Edition","rows":[["Fire Formation - Tenki","FFSE-EN001","Super Rare",5.41,"https://images.ygoprodeck.com/images/cards_small/57103969.jpg","Spell Card",0]]};

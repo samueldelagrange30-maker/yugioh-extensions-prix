@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Championship 2009 Prize Card","rows":[["Dark End Dragon","SJCS-EN007","Ultra Rare",14693.33,"https://images.ygoprodeck.com/images/cards_small/88643579.jpg","Synchro Monster"]]};
+window.YGO_SET={"n":"Shonen Jump Championship 2009 Prize Card","rows":[["Dark End Dragon","SJCS-EN007","Ultra Rare",14693.33,"https://images.ygoprodeck.com/images/cards_small/88643579.jpg","Synchro Monster",0]]};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Structure Deck: Dinosaur's Rage Special Set","rows":[["Five-Headed Dragon","SD09-ENSS1","Ultra Rare",46.36,"https://images.ygoprodeck.com/images/cards_small/99267150.jpg","Fusion Monster"]]};
+window.YGO_SET={"n":"Structure Deck: Dinosaur's Rage Special Set","rows":[["Five-Headed Dragon","SD09-ENSS1","Ultra Rare",46.36,"https://images.ygoprodeck.com/images/cards_small/99267150.jpg","Fusion Monster",0]]};

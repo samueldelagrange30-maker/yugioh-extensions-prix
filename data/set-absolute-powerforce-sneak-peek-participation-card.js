@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Absolute Powerforce Sneak Peek Participation Card","rows":[["Gravekeeper's Priestess","ABPF-ENSP1","Ultra Rare",8.78,"https://images.ygoprodeck.com/images/cards_small/3381441.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Absolute Powerforce Sneak Peek Participation Card","rows":[["Gravekeeper's Priestess","ABPF-ENSP1","Ultra Rare",8.78,"https://images.ygoprodeck.com/images/cards_small/3381441.jpg","Effect Monster",0]]};

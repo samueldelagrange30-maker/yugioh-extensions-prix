@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Ra Yellow Mega Pack: Special Edition","rows":[["Legendary Six Samurai - Shi En","RYMP-ENSE1","Super Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/29981921.jpg","Synchro Monster"]]};
+window.YGO_SET={"n":"Ra Yellow Mega Pack: Special Edition","rows":[["Legendary Six Samurai - Shi En","RYMP-ENSE1","Super Rare",0.29,"https://images.ygoprodeck.com/images/cards_small/29981921.jpg","Synchro Monster",2]]};

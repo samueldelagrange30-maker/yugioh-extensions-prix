@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 3 promotional card","rows":[["Number 22: Zombiestein","YZ03-EN001","Ultra Rare",14.52,"https://images.ygoprodeck.com/images/cards_small/73445448.jpg","XYZ Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 3 promotional card","rows":[["Number 22: Zombiestein","YZ03-EN001","Ultra Rare",14.52,"https://images.ygoprodeck.com/images/cards_small/73445448.jpg","XYZ Monster",0]]};

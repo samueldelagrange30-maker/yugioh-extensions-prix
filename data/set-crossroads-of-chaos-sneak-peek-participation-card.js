@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Crossroads of Chaos Sneak Peek Participation Card","rows":[["Rose, Warrior of Revenge","CSOC-ENSP1","Super Rare",5.18,"https://images.ygoprodeck.com/images/cards_small/1557341.jpg","Tuner Monster"]]};
+window.YGO_SET={"n":"Crossroads of Chaos Sneak Peek Participation Card","rows":[["Rose, Warrior of Revenge","CSOC-ENSP1","Super Rare",5.18,"https://images.ygoprodeck.com/images/cards_small/1557341.jpg","Tuner Monster",0]]};

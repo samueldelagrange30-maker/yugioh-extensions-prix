@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yugi & Kaiba Collector Box","rows":[["Blue-Eyes White Dragon","KACB-EN001","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster"]]};
+window.YGO_SET={"n":"Yugi & Kaiba Collector Box","rows":[["Blue-Eyes White Dragon","KACB-EN001","Ultra Rare",0.14,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster",2]]};

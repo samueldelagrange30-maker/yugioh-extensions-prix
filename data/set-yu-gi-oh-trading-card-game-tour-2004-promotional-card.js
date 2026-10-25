@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! Trading Card Game Tour 2004 promotional card","rows":[["Machine King","EM1-EN001","Ultra Rare",23.83,"https://images.ygoprodeck.com/images/cards_small/46700124.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! Trading Card Game Tour 2004 promotional card","rows":[["Machine King","EM1-EN001","Ultra Rare",23.83,"https://images.ygoprodeck.com/images/cards_small/46700124.jpg","Effect Monster",0]]};

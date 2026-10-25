@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2023 I","rows":[["Grand Convergence","LART-EN062","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/38430673.jpg","Spell Card"]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2023 I","rows":[["Grand Convergence","LART-EN062","Ultra Rare",0.11,"https://images.ygoprodeck.com/images/cards_small/38430673.jpg","Spell Card",2]]};

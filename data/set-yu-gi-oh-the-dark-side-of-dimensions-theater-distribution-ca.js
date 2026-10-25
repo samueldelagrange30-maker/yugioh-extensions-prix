@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards","rows":[["Obelisk the Tormentor","MVPC-EN001","Gold Secret Rare",13.27,"https://images.ygoprodeck.com/images/cards_small/10000000.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards","rows":[["Obelisk the Tormentor","MVPC-EN001","Gold Secret Rare",13.27,"https://images.ygoprodeck.com/images/cards_small/10000000.jpg","Effect Monster",0]]};

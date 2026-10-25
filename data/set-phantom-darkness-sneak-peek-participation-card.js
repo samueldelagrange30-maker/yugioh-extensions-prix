@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Phantom Darkness Sneak Peek Participation Card","rows":[["Dark Grepher","PTDN-ENSP1","Super Rare",9.57,"https://images.ygoprodeck.com/images/cards_small/14536035.jpg","Effect Monster"]]};
+window.YGO_SET={"n":"Phantom Darkness Sneak Peek Participation Card","rows":[["Dark Grepher","PTDN-ENSP1","Super Rare",9.57,"https://images.ygoprodeck.com/images/cards_small/14536035.jpg","Effect Monster",0]]};

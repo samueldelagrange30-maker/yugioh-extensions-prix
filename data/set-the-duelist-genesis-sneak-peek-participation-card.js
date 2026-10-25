@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Duelist Genesis Sneak Peek Participation Card","rows":[["Avenging Knight Parshath","TDGS-ENSP1","Super Rare",16.22,"https://images.ygoprodeck.com/images/cards_small/69514125.jpg","Synchro Monster"]]};
+window.YGO_SET={"n":"The Duelist Genesis Sneak Peek Participation Card","rows":[["Avenging Knight Parshath","TDGS-ENSP1","Super Rare",16.22,"https://images.ygoprodeck.com/images/cards_small/69514125.jpg","Synchro Monster",0]]};
