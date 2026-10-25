@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2023 H","rows":[["Mitsu the Insect Ninja","LART-EN061","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/67282505.jpg","Effect Monster"]]};

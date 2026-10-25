@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Tactical Evolution: Special Edition","rows":[["Masked Beast Des Gardius","TAEV-ENSE1","Super Rare",7.36,"https://images.ygoprodeck.com/images/cards_small/48948935.jpg","Effect Monster"],["The Mask of Remnants","TAEV-ENSE2","Super Rare",4.82,"https://images.ygoprodeck.com/images/cards_small/22610082.jpg","Spell Card"]]};

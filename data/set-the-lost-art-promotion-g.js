@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion G","rows":[["Ring of Destruction","LART-EN007","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/83555666.jpg","Trap Card"]]};

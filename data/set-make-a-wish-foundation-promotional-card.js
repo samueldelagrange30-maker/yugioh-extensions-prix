@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Make-A-Wish Foundation promotional card","rows":[["Tyler the Great Warrior","TYL-EN001","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/68811206.jpg","Effect Monster"]]};

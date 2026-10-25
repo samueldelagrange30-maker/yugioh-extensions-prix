@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! R Volume 5 promotional card","rows":[["Alector, Sovereign of Birds","YR05-EN001","Ultra Rare",13.71,"https://images.ygoprodeck.com/images/cards_small/17573739.jpg","Effect Monster"]]};

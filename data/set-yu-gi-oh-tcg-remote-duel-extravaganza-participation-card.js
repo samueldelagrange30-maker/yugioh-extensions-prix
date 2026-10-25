@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! TCG Remote Duel Extravaganza participation card","rows":[["Amabie","21CC-EN001","Common",11.27,"https://images.ygoprodeck.com/images/cards_small/2139640.jpg","Effect Monster"]]};

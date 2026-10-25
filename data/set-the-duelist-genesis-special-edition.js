@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Duelist Genesis: Special Edition","rows":[["Eradicator Epidemic Virus","TDGS-ENSE1","Super Rare",3.79,"https://images.ygoprodeck.com/images/cards_small/54974237.jpg","Trap Card"],["Gladiator Beast Heraklinos","TDGS-ENSE2","Super Rare",3.19,"https://images.ygoprodeck.com/images/cards_small/27346636.jpg","Fusion Monster"]]};

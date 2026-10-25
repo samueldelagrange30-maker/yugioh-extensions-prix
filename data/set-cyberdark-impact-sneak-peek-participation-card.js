@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Cyberdark Impact Sneak Peek Participation Card","rows":[["Justi-Break","SP02-EN004","Ultra Rare",13.73,"https://images.ygoprodeck.com/images/cards_small/62271284.jpg","Trap Card"]]};

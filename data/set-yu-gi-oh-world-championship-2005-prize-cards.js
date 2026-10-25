@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! World Championship 2005 prize cards","rows":[["King of Destruction - Xexex","WCS-EN501","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/501000002.jpg","Effect Monster"],["Queen of Fate - Eternia","WCS-EN502","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/501000003.jpg","Effect Monster"]]};

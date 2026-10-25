@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Collectible Tins 2009 Wave 1","rows":[["Ancient Fairy Dragon","CT06-EN002","Secret Rare",8.55,"https://images.ygoprodeck.com/images/cards_small/25862681.jpg","Synchro Monster"],["Power Tool Dragon","CT06-EN001","Secret Rare",13.09,"https://images.ygoprodeck.com/images/cards_small/2403771.jpg","Synchro Monster"]]};

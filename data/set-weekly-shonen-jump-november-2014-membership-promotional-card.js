@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump November 2014 membership promotional card","rows":[["Ebon Illusion Magician","JUMP-EN070","Ultra Rare",47.63,"https://images.ygoprodeck.com/images/cards_small/96471335.jpg","XYZ Monster"]]};

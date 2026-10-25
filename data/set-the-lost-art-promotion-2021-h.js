@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2021 H","rows":[["Storming Wynn","LART-EN038","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/29013526.jpg","Effect Monster"]]};

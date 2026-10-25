@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 5 participation card A","rows":[["Crystal Beast Ruby Carbuncle","HL05-EN001","Ultra Parallel Rare",154.94,"https://images.ygoprodeck.com/images/cards_small/32710364.jpg","Effect Monster"]]};

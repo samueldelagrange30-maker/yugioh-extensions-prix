@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2020 O","rows":[["Arrivalrivals","LART-EN027","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/29508346.jpg","Spell Card"]]};

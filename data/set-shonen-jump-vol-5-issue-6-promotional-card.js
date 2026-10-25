@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 5, Issue 6 promotional card","rows":[["Elemental HERO Ocean","JUMP-EN013","Ultra Rare",13.06,"https://images.ygoprodeck.com/images/cards_small/37195861.jpg","Effect Monster"]]};

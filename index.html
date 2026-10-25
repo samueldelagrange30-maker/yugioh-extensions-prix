@@ -1,0 +1,8 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Extensions Yu-Gi-Oh! – Prix</title><link rel="stylesheet" href="style.css"></head><body>
+<header><h1>⭐ Extensions Yu-Gi-Oh! TCG</h1><div class="mut">Toutes les extensions, leurs cartes et leurs prix</div></header>
+<div class="wrap"><div class="stat" id="stat"></div>
+<div class="bar"><input id="q" placeholder="Rechercher une extension ou un code…"><select id="y"><option value="">Toutes les années</option></select>
+<select id="s"><option value="d-">Date (récent)</option><option value="d+">Date (ancien)</option><option value="n+">Nom A→Z</option><option value="t-">Prix total ↓</option><option value="t+">Prix total ↑</option><option value="p-">Nb cartes ↓</option><option value="p+">Nb cartes ↑</option></select></div>
+<table><thead><tr><th>Extension</th><th class="hide-m">Code</th><th>Date</th><th class="num">Cartes</th><th class="num">Prix total</th></tr></thead><tbody id="tb"></tbody></table></div>
+<footer>Données et prix : <a href="https://ygoprodeck.com" target="_blank">YGOPRODeck</a> (API v7). Prix en USD, estimations par impression (basées sur TCGplayer), mis à jour le <span id="dt"></span>.</footer>
+<script src="data/sets-index.js"></script><script src="app.js"></script><script>home()</script></body></html>

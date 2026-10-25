@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shadow Specters Sneak Peek Participation Card","rows":[["Ghostrick Ghoul","SHSP-ENSP1","Ultra Rare",3.79,"https://images.ygoprodeck.com/images/cards_small/85463083.jpg","Effect Monster"]]};

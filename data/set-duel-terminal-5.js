@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duel Terminal 5","rows":[["Laval Warrior","DT05-EN024","Duel Terminal Normal Parallel Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/52786469.jpg","Effect Monster"],["Vylon Charger","DT05-EN032","Duel Terminal Normal Parallel Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/13220032.jpg","Effect Monster"]]};

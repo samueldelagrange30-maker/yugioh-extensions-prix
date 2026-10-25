@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duelist Revolution Sneak Peek Participation Card","rows":[["Scrap Archfiend","DREV-ENSP1","Ultra Rare",4.58,"https://images.ygoprodeck.com/images/cards_small/45815891.jpg","Synchro Monster"]]};

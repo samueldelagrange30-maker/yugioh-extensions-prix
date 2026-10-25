@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Return of the Duelist: Special Edition","rows":[["Number 30: Acid Golem of Destruction","REDU-ENSE2","Super Rare",3.46,"https://images.ygoprodeck.com/images/cards_small/81330115.jpg","XYZ Monster"],["T.G. Hyper Librarian","REDU-ENSE1","Super Rare",4.22,"https://images.ygoprodeck.com/images/cards_small/90953320.jpg","Synchro Monster"]]};

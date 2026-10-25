@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Pharaoh Tour 2007 promotional cards","rows":[["Elemental HERO Stratos","PT03-EN002","Common",23.74,"https://images.ygoprodeck.com/images/cards_small/40044918.jpg","Effect Monster"],["Gold Sarcophagus","PT03-EN001","Ultra Rare",21127.3,"https://images.ygoprodeck.com/images/cards_small/75500286.jpg","Spell Card"]]};

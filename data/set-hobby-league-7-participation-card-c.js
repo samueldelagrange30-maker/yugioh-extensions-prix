@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 7 participation card C","rows":[["Dark Dust Spirit","HL07-EN003","Ultra Parallel Rare",12.6,"https://images.ygoprodeck.com/images/cards_small/89111398.jpg","Spirit Monster"]]};

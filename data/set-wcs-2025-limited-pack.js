@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"WCS 2025 Limited Pack","rows":[["Exodia the Forbidden One","25LP-EN000","Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/33396948.jpg","Effect Monster"],["Exodia the Forbidden One","25LP-EN000","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/33396948.jpg","Effect Monster"]]};

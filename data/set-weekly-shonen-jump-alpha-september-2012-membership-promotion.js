@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump Alpha September 2012 membership promotional card","rows":[["Superdreadnought Rail Cannon Gustav Max","JUMP-EN062","Ultra Rare",16.24,"https://images.ygoprodeck.com/images/cards_small/56910167.jpg","XYZ Monster"]]};

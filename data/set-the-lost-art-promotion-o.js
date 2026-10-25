@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion O","rows":[["Edge Imp Sabres","LART-EN015","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/30068120.jpg","Effect Monster"]]};

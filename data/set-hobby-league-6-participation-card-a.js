@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 6 participation card A","rows":[["Nobleman of Crossout","HL06-EN001","Ultra Parallel Rare",20.79,"https://images.ygoprodeck.com/images/cards_small/71044499.jpg","Spell Card"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Shining Darkness Sneak Peek Participation Card","rows":[["XX-Saber Boggart Knight","TSHD-ENSP1","Ultra Rare",7.1,"https://images.ygoprodeck.com/images/cards_small/5998840.jpg","Effect Monster"]]};

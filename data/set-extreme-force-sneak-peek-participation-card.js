@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Extreme Force Sneak Peek Participation Card","rows":[["World Legacy Scars","EXFO-ENSP1","Ultra Rare",2.48,"https://images.ygoprodeck.com/images/cards_small/35546670.jpg","Spell Card"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2020 J","rows":[["Harpie Channeler","LART-EN022","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/90238142.jpg","Effect Monster"]]};

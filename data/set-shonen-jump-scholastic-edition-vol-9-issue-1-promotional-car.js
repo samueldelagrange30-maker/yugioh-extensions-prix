@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Scholastic Edition Vol. 9, Issue 1 promotional card","rows":[["Troposphere","JMPS-EN001","Ultra Rare",34.18,"https://images.ygoprodeck.com/images/cards_small/72144675.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 2 promotional card","rows":[["Clear Wing Fast Dragon","YA02-EN001","Ultra Rare",5.14,"https://images.ygoprodeck.com/images/cards_small/90036274.jpg","Synchro Pendulum Effect Monster"]]};

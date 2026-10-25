@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2024 A","rows":[["Eldlich the Golden Lord","LART-EN066","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/95440946.jpg","Effect Monster"]]};

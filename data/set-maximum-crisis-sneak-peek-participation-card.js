@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Maximum Crisis Sneak Peek Participation Card","rows":[["Pendulum Switch","MACR-ENSP1","Ultra Rare",2.31,"https://images.ygoprodeck.com/images/cards_small/42378577.jpg","Trap Card"]]};

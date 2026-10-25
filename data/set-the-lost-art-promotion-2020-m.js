@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2020 M","rows":[["Frightfur Leo","LART-EN025","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/10383554.jpg","Fusion Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 7, Issue 6 promotional card","rows":[["Beast King Barbaros","JUMP-EN032","Ultra Rare",6.95,"https://images.ygoprodeck.com/images/cards_small/78651105.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duel Disk - Yusei Version","rows":[["Vice Dragon","DDY1-EN001","Ultra Rare",10001.09,"https://images.ygoprodeck.com/images/cards_small/54343893.jpg","Effect Monster"]]};

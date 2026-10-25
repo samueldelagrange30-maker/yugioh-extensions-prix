@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump January 2017 membership promotional card","rows":[["Odd-Eyes Persona Dragon","JUMP-EN079","Ultra Rare",13.14,"https://images.ygoprodeck.com/images/cards_small/21250202.jpg","Pendulum Effect Monster"]]};

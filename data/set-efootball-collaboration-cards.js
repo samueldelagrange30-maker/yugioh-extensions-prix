@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"EFootball collaboration cards","rows":[["Rescue Rabbit","EFC1-EN001","Normal Parallel Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/85138716.jpg","Effect Monster"]]};

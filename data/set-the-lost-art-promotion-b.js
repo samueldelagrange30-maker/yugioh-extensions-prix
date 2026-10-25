@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion B","rows":[["Right Leg of the Forbidden One","LART-EN002","Ultra Rare",27.3,"https://images.ygoprodeck.com/images/cards_small/8124921.jpg","Normal Monster"]]};

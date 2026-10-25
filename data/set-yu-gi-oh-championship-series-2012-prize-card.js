@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! Championship Series 2012 Prize Card","rows":[["Digvorzhak, King of Heavy Industry","YCSW-EN005","Super Rare",1931.93,"https://images.ygoprodeck.com/images/cards_small/29515122.jpg","XYZ Monster"],["Digvorzhak, King of Heavy Industry","YCSW-EN005","Ultra Rare",2242.58,"https://images.ygoprodeck.com/images/cards_small/29515122.jpg","XYZ Monster"]]};

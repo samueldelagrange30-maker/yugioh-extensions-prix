@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! World Championship 2006 prize cards","rows":[["Testament of the Arcane Lords","WCPS-EN601","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/501000004.jpg","Effect Monster"]]};

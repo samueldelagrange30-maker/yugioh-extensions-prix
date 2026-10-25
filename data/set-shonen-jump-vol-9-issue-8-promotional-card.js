@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 8 promotional card","rows":[["Meklord Emperor Wisel","JUMP-EN053","Ultra Rare",2.49,"https://images.ygoprodeck.com/images/cards_small/68140974.jpg","Effect Monster"]]};

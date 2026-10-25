@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 1 promotional card","rows":[["The Winged Dragon of Ra","JUMP-EN045","Ultra Rare",10.45,"https://images.ygoprodeck.com/images/cards_small/10000010.jpg","Effect Monster"]]};

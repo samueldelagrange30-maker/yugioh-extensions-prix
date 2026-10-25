@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2024 H","rows":[["Monster Reborn","LART-EN074","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/83764719.jpg","Spell Card"]]};

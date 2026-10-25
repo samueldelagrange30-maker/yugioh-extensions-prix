@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Light of Destruction Sneak Peek Participation Card","rows":[["Guardian of Order","LODT-ENSP1","Super Rare",6.4,"https://images.ygoprodeck.com/images/cards_small/71799173.jpg","Effect Monster"]]};

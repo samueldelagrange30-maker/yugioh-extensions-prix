@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2025 F","rows":[["Full Salvo","LART-EN075","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/70865988.jpg","Trap Card"]]};

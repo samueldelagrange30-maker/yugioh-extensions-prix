@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 3 participation card E","rows":[["Mystic Tomato","HL03-EN005","Ultra Parallel Rare",15.79,"https://images.ygoprodeck.com/images/cards_small/83011278.jpg","Effect Monster"]]};

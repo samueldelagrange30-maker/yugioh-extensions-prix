@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 6 participation card C","rows":[["D.D. Warrior Lady","HL06-EN003","Ultra Parallel Rare",19.53,"https://images.ygoprodeck.com/images/cards_small/7572887.jpg","Effect Monster"]]};

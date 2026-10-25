@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Samurai Assault","rows":[["Elder of the Six Samurai","SAAS-EN001","Super Rare",3.44,"https://images.ygoprodeck.com/images/cards_small/61737116.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! Championship Series 2013 Prize Card","rows":[["Number 106: Giant Hand","YCSW-EN006","Super Rare",1952.54,"https://images.ygoprodeck.com/images/cards_small/63746411.jpg","XYZ Monster"],["Number 106: Giant Hand","YCSW-EN006","Ultra Rare",8915.68,"https://images.ygoprodeck.com/images/cards_small/63746411.jpg","XYZ Monster"]]};

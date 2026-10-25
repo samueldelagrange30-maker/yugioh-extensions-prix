@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 7 participation card E","rows":[["Card of Safe Return","HL07-EN005","Ultra Parallel Rare",7.55,"https://images.ygoprodeck.com/images/cards_small/57953380.jpg","Spell Card"]]};

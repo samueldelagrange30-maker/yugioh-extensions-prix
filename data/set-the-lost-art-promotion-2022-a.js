@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2022 A","rows":[["Parasite Paracide","LART-EN043","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/27911549.jpg","Flip Effect Monster"]]};

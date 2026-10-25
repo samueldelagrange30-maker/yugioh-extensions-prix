@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Crimson Crisis: Special Edition","rows":[["Goblin Zombie","CRMS-ENSE2","Super Rare",3.72,"https://images.ygoprodeck.com/images/cards_small/63665875.jpg","Effect Monster"],["Necroface","CRMS-ENSE1","Super Rare",6.94,"https://images.ygoprodeck.com/images/cards_small/28297833.jpg","Effect Monster"]]};

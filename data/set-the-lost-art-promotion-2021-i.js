@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2021 I","rows":[["Gemini Elf","LART-EN039","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/69140098.jpg","Normal Monster"]]};

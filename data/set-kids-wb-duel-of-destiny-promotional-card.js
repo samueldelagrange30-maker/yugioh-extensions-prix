@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Kids WB Duel of Destiny promotional card","rows":[["Card of Sanctity","EP1-EN000","Common",0.0,"https://images.ygoprodeck.com/images/cards_small/42664989.jpg","Spell Card"]]};

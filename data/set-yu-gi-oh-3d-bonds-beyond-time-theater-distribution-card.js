@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! 3D Bonds Beyond Time Theater distribution card","rows":[["Malefic Red-Eyes Black Dragon","MOV2-EN001","Ultra Rare",4.85,"https://images.ygoprodeck.com/images/cards_small/55343236.jpg","Effect Monster"]]};

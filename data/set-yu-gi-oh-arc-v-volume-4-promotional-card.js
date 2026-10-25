@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 4 promotional card","rows":[["White Aura Bihamut","YA04-EN001","Ultra Rare",10.6,"https://images.ygoprodeck.com/images/cards_small/89907227.jpg","Synchro Monster"]]};

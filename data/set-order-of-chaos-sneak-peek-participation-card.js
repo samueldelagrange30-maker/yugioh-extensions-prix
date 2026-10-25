@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Order of Chaos Sneak Peek Participation Card","rows":[["Inzektor Axe - Zektahawk","ORCS-ENSP1","Ultra Rare",7.54,"https://images.ygoprodeck.com/images/cards_small/87973893.jpg","Spell Card"]]};

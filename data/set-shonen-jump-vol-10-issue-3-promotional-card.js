@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 10, Issue 3 promotional card","rows":[["X-Saber Souza","JUMP-EN058","Ultra Rare",2.51,"https://images.ygoprodeck.com/images/cards_small/63612442.jpg","Synchro Monster"]]};

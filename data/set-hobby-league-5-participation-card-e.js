@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 5 participation card E","rows":[["The Six Samurai - Zanji","HL05-EN005","Ultra Parallel Rare",6.37,"https://images.ygoprodeck.com/images/cards_small/95519486.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duelist Revolution: Special Edition","rows":[["Drill Warrior","DREV-ENSE1","Super Rare",3.24,"https://images.ygoprodeck.com/images/cards_small/3429238.jpg","Synchro Monster"],["Gold Sarcophagus","DREV-ENSE2","Super Rare",4.28,"https://images.ygoprodeck.com/images/cards_small/75500286.jpg","Spell Card"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Storm of Ragnarok Sneak Peek Participation Card","rows":[["Vortex the Whirlwind","STOR-ENSP1","Ultra Rare",7.43,"https://images.ygoprodeck.com/images/cards_small/25373678.jpg","Synchro Monster"]]};

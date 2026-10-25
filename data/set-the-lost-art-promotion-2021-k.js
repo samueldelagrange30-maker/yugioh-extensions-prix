@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2021 K","rows":[["Elemental HERO Burstinatrix","LART-EN041","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/58932615.jpg","Normal Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! 5D's Volume 3 promotional card","rows":[["Infernity General","YF03-EN001","Ultra Rare",5.73,"https://images.ygoprodeck.com/images/cards_small/17502671.jpg","Effect Monster"]]};

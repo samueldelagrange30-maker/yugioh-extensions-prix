@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Generation Force: Special Edition","rows":[["Elemental HERO Absolute Zero","GENF-ENSE1","Super Rare",7.34,"https://images.ygoprodeck.com/images/cards_small/40854197.jpg","Fusion Monster"],["Spore","GENF-ENSE2","Super Rare",5.72,"https://images.ygoprodeck.com/images/cards_small/11747708.jpg","Tuner Monster"]]};

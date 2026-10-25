@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"WSJ Jump Pack Fall 2016 promotional card","rows":[["Dark Magician","JMPS-EN003","Ultra Rare",171.83,"https://images.ygoprodeck.com/images/cards_small/46986414.jpg","Normal Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Circuit Break Sneak Peek Participation Card","rows":[["Hallohallo","CIBR-ENSP1","Ultra Rare",3.34,"https://images.ygoprodeck.com/images/cards_small/77994337.jpg","Pendulum Tuner Effect Monster"]]};

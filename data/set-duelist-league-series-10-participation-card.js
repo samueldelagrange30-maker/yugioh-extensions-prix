@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duelist League Series 10 participation card","rows":[["Breath of Light","DL10-EN001","Super Rare",97.8,"https://images.ygoprodeck.com/images/cards_small/20101223.jpg","Spell Card"]]};

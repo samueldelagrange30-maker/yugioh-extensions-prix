@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 8 promotional card","rows":[["Barbaroid, the Ultimate Battle Machine","YG08-EN001","Ultra Rare",12.0,"https://images.ygoprodeck.com/images/cards_small/54702678.jpg","Fusion Monster"]]};

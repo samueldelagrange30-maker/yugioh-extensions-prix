@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Nike collaboration cards","rows":[["Red-Eyes Black Dragon","NKC1-EN002","Reprint",0.0,"https://images.ygoprodeck.com/images/cards_small/74677422.jpg","Normal Monster"],["WINDS OF VICTORY","NKC1-EN001","Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/37301660.jpg","Spell Card"]]};

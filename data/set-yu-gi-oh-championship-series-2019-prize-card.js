@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! Championship Series 2019 prize card","rows":[["Duel Link Dragon, the Duel Dragon","YCSW-EN012","Super Rare",2023.2,"https://images.ygoprodeck.com/images/cards_small/60025883.jpg","Link Monster"],["Duel Link Dragon, the Duel Dragon","YCSW-EN012","Ultra Rare",4121.96,"https://images.ygoprodeck.com/images/cards_small/60025883.jpg","Link Monster"]]};

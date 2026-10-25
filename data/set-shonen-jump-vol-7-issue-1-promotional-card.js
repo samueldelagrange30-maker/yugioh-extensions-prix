@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 7, Issue 1 promotional card","rows":[["Gandora the Dragon of Destruction","JUMP-EN028","Ultra Rare",11.52,"https://images.ygoprodeck.com/images/cards_small/64681432.jpg","Effect Monster"]]};

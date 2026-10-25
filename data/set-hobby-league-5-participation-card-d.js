@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 5 participation card D","rows":[["Dekoichi the Battlechanted Locomotive","HL05-EN004","Ultra Parallel Rare",19.5,"https://images.ygoprodeck.com/images/cards_small/87621407.jpg","Flip Effect Monster"]]};

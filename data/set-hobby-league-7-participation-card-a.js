@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 7 participation card A","rows":[["Monster Reborn","HL07-EN001","Ultra Parallel Rare",43.71,"https://images.ygoprodeck.com/images/cards_small/83764719.jpg","Spell Card"]]};

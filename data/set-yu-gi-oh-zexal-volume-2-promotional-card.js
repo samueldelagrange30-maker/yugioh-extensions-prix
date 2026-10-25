@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 2 promotional card","rows":[["Number 50: Blackship of Corn","YZ02-EN001","Ultra Rare",9.64,"https://images.ygoprodeck.com/images/cards_small/51735257.jpg","XYZ Monster"]]};

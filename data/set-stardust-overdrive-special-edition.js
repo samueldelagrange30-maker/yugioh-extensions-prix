@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Stardust Overdrive: Special Edition","rows":[["Charge of the Light Brigade","SOVR-ENSE2","Super Rare",4.01,"https://images.ygoprodeck.com/images/cards_small/94886282.jpg","Spell Card"],["Tempest Magician","SOVR-ENSE1","Super Rare",4.85,"https://images.ygoprodeck.com/images/cards_small/63101919.jpg","Synchro Monster"]]};

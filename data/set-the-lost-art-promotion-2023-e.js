@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2023 E","rows":[["Stygian Dirge","LART-EN058","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/81489939.jpg","Trap Card"]]};

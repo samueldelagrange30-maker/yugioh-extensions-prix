@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! Double Pack promotional cards","rows":[["Dark Magician Knight","ROD-EN001","Super Parallel Rare",17.83,"https://images.ygoprodeck.com/images/cards_small/50725996.jpg","Effect Monster"],["Knight's Title","ROD-EN002","Super Parallel Rare",3.01,"https://images.ygoprodeck.com/images/cards_small/87210505.jpg","Spell Card"]]};

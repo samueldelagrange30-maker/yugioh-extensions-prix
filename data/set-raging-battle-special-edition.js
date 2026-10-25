@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Raging Battle: Special Edition","rows":[["Allure of Darkness","RGBT-ENSE2","Super Rare",7.08,"https://images.ygoprodeck.com/images/cards_small/1475311.jpg","Spell Card"],["The Dark Creator","RGBT-ENSE1","Super Rare",3.46,"https://images.ygoprodeck.com/images/cards_small/92719314.jpg","Effect Monster"]]};

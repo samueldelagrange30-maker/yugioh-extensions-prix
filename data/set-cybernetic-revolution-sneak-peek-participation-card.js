@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Cybernetic Revolution Sneak Peek Participation Card","rows":[["Embodiment of Apophis","SP1-EN003","Ultra Rare",8.85,"https://images.ygoprodeck.com/images/cards_small/28649820.jpg","Trap Card"]]};

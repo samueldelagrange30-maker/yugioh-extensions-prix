@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! ARC-V Volume 6 promotional card","rows":[["Timelord Progenitor Vorpgate","YA06-EN001","Ultra Rare",17.07,"https://images.ygoprodeck.com/images/cards_small/67508932.jpg","Synchro Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Flames of Destruction Sneak Peek Participation Card","rows":[["Monster Reborn Reborn","FLOD-ENSP1","Ultra Rare",3.96,"https://images.ygoprodeck.com/images/cards_small/50213848.jpg","Spell Card"]]};

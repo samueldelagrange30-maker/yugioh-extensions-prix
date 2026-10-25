@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Order of Chaos: Special Edition","rows":[["Effect Veiler","ORCS-ENSE1","Super Rare",7.5,"https://images.ygoprodeck.com/images/cards_small/97268402.jpg","Tuner Monster"],["The Winged Dragon of Ra","ORCS-ENSE2","Super Rare",5.1,"https://images.ygoprodeck.com/images/cards_small/10000010.jpg","Effect Monster"]]};

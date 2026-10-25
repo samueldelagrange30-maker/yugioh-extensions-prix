@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Strike of Neos: Special Edition","rows":[["Cyber End Dragon","STON-ENSE1","Super Rare",4.77,"https://images.ygoprodeck.com/images/cards_small/1546123.jpg","Fusion Monster"],["Shrink","STON-ENSE2","Super Rare",4.76,"https://images.ygoprodeck.com/images/cards_small/55713623.jpg","Spell Card"]]};

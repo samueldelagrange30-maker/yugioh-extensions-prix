@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2023 G","rows":[["Magician's Salvation","LART-EN060","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/95477924.jpg","Spell Card"]]};

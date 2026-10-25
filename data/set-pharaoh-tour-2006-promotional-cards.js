@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Pharaoh Tour 2006 promotional cards","rows":[["Shrink","PT02-EN001","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/55713623.jpg","Spell Card"],["Toon Dark Magician Girl","PT02-EN002","Common",26.78,"https://images.ygoprodeck.com/images/cards_small/90960358.jpg","Toon Monster"]]};

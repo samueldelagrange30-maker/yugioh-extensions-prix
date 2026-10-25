@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 4, Issue 11 promotional card","rows":[["Magician's Valkyria","JUMP-EN009","Ultra Rare",20.99,"https://images.ygoprodeck.com/images/cards_small/80304126.jpg","Effect Monster"]]};

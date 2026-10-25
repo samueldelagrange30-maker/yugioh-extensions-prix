@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Starter Deck 2006: Special Edition","rows":[["Elemental HERO Sparkman","YSD-ENS01","Ultra Rare",7.83,"https://images.ygoprodeck.com/images/cards_small/20721928.jpg","Normal Monster"]]};

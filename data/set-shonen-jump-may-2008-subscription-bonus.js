@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump May 2008 subscription bonus","rows":[["Exodius the Ultimate Forbidden Lord","JUMP-EN025","Ultra Rare",49.0,"https://images.ygoprodeck.com/images/cards_small/13893596.jpg","Effect Monster"]]};

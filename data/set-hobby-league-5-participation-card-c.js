@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 5 participation card C","rows":[["Crystal Beacon","HL05-EN003","Ultra Parallel Rare",12.8,"https://images.ygoprodeck.com/images/cards_small/95326659.jpg","Spell Card"]]};

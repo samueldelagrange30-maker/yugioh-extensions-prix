@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2020 E","rows":[["Offerings to the Doomed","LART-EN017","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/19230408.jpg","Spell Card"]]};

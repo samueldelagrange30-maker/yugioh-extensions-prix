@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump Alpha April 2012 membership promotional card","rows":[["Number 16: Shock Master","JUMP-EN060","Ultra Rare",23.07,"https://images.ygoprodeck.com/images/cards_small/54719828.jpg","XYZ Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The New Challengers Sneak Peek Participation Card","rows":[["Lancephorhynchus","NECH-ENSP1","Ultra Rare",2.44,"https://images.ygoprodeck.com/images/cards_small/48940337.jpg","Pendulum Normal Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Pharaoh's Servant (25th Anniversary Edition)","rows":[["Numinous Healer","PSV-EN023","Common",0.0,"https://images.ygoprodeck.com/images/cards_small/2130625.jpg","Trap Card"]]};

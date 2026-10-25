@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump July 2013 membership promotional card","rows":[["Zubaba General","JUMP-EN065","Ultra Rare",5.61,"https://images.ygoprodeck.com/images/cards_small/31563350.jpg","XYZ Monster"]]};

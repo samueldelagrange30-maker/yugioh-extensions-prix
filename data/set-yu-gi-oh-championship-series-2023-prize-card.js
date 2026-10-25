@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! Championship Series 2023 prize card","rows":[["Anotherverse Gluttonia","YCSW-EN014","Super Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/86893702.jpg","Normal Monster"],["Anotherverse Gluttonia","YCSW-EN014","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/86893702.jpg","Normal Monster"]]};

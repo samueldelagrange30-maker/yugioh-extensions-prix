@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! R Volume 4 promotional card","rows":[["Angel O7","YR04-EN001","Ultra Rare",12.3,"https://images.ygoprodeck.com/images/cards_small/56784842.jpg","Effect Monster"]]};

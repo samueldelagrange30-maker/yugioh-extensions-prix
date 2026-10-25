@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Blazing Vortex Premiere! promotional card","rows":[["Armed Dragon Flash","BLVO-ENSP1","Ultra Rare",23.29,"https://images.ygoprodeck.com/images/cards_small/34611551.jpg","Spell Card"]]};

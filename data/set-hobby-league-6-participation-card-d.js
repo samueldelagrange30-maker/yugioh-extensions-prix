@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 6 participation card D","rows":[["Reinforcement of the Army","HL06-EN004","Ultra Parallel Rare",30.3,"https://images.ygoprodeck.com/images/cards_small/32807846.jpg","Spell Card"]]};

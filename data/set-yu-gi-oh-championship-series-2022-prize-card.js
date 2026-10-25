@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! Championship Series 2022 prize card","rows":[["Anotherverse Dragon","YCSW-EN013","Super Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/47484352.jpg","Normal Monster"],["Anotherverse Dragon","YCSW-EN013","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/47484352.jpg","Normal Monster"]]};

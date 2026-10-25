@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 4 participation card F","rows":[["Torrential Tribute","HL04-EN006","Ultra Parallel Rare",22.22,"https://images.ygoprodeck.com/images/cards_small/53582587.jpg","Trap Card"]]};

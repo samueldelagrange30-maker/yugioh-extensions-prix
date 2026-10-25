@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump Alpha December 2012 membership promotional card","rows":[["Number 40: Gimmick Puppet of Strings","JUMP-EN063","Ultra Rare",10.88,"https://images.ygoprodeck.com/images/cards_small/75433814.jpg","XYZ Monster"]]};

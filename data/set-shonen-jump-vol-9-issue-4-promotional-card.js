@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 9, Issue 4 promotional card","rows":[["Dark Magician","JUMP-EN049","Ultra Rare",129.27,"https://images.ygoprodeck.com/images/cards_small/46986414.jpg","Normal Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Special Edition","rows":[["Elemental HERO Wildheart","GSE-EN001","Ultra Secret Rare",10.58,"https://images.ygoprodeck.com/images/cards_small/86188410.jpg","Effect Monster"]]};

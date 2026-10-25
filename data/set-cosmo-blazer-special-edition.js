@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Cosmo Blazer: Special Edition","rows":[["Blade Armor Ninja","CBLZ-ENSE2","Super Rare",3.2,"https://images.ygoprodeck.com/images/cards_small/82944432.jpg","XYZ Monster"],["Wind-Up Shark","CBLZ-ENSE1","Super Rare",2.67,"https://images.ygoprodeck.com/images/cards_small/25484449.jpg","Effect Monster"]]};

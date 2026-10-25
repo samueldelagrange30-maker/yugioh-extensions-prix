@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hidden Arsenal: Special Edition","rows":[["Naturia Pineapple","HASE-EN002","Super Rare",2.36,"https://images.ygoprodeck.com/images/cards_small/7304544.jpg","Effect Monster"],["XX-Saber Emmersblade","HASE-EN001","Super Rare",2.45,"https://images.ygoprodeck.com/images/cards_small/42737833.jpg","Effect Monster"]]};

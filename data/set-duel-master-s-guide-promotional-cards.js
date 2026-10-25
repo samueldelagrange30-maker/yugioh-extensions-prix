@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duel Master's Guide promotional cards","rows":[["Dark Paladin","DMG-001","Secret Rare",92.62,"https://images.ygoprodeck.com/images/cards_small/98502113.jpg","Fusion Monster"]]};

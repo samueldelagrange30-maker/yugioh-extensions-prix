@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Photon Shockwave Sneak Peek Participation Card","rows":[["Alexandrite Dragon","PHSW-ENSP1","Ultra Rare",14.48,"https://images.ygoprodeck.com/images/cards_small/43096270.jpg","Normal Monster"]]};

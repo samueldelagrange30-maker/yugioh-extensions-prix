@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Speed Duel: Scars of Battle Launch Event participation card","rows":[["Bandit","EVSD-ENS02","Ultra Rare",5.85,"https://images.ygoprodeck.com/images/cards_small/300103003.jpg","Skill Card"]]};

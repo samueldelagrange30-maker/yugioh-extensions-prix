@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! The Dark Side of Dimensions Blu-ray & DVD promotional card","rows":[["Obelisk the Tormentor","MVPC-EN001","Gold Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/10000000.jpg","Effect Monster"]]};

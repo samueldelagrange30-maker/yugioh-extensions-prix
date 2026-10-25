@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump November 2017 membership promotional card","rows":[["Linkuriboh","JUMP-EN082","Ultra Rare",16.46,"https://images.ygoprodeck.com/images/cards_small/41999284.jpg","Link Monster"]]};

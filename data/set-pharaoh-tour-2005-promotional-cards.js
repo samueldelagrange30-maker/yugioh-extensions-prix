@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Pharaoh Tour 2005 promotional cards","rows":[["Des Volstgalph","PT1-EN002","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/81059524.jpg","Effect Monster"],["Zoa","PT1-EN001","Common",19.3,"https://images.ygoprodeck.com/images/cards_small/24311372.jpg","Normal Monster"]]};

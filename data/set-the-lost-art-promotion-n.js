@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion N","rows":[["Solemn Judgment","LART-EN014","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/41420027.jpg","Trap Card"]]};

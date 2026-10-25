@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Breakers of Shadow Sneak Peek Participation Card","rows":[["Steel Cavalry of Dinon","BOSH-ENSP1","Ultra Rare",2.13,"https://images.ygoprodeck.com/images/cards_small/2396042.jpg","Pendulum Effect Monster"]]};

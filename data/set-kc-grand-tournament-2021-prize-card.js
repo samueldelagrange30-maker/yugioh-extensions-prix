@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"KC Grand Tournament 2021 prize card","rows":[["Dark Magician","2021-EN001","Extra Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/46986414.jpg","Normal Monster"]]};

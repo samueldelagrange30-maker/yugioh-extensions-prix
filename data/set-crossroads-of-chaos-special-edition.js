@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Crossroads of Chaos: Special Edition","rows":[["Harvest Angel of Wisdom","CSOC-ENSE1","Super Rare",3.09,"https://images.ygoprodeck.com/images/cards_small/85399281.jpg","Effect Monster"],["Il Blud","CSOC-ENSE2","Super Rare",2.83,"https://images.ygoprodeck.com/images/cards_small/70595331.jpg","Gemini Monster"]]};

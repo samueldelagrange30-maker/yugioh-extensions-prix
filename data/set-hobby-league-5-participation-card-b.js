@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 5 participation card B","rows":[["Green Gadget","HL05-EN002","Ultra Parallel Rare",10.97,"https://images.ygoprodeck.com/images/cards_small/41172955.jpg","Effect Monster"]]};

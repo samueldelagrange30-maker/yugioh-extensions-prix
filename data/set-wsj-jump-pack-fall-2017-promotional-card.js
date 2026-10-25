@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"WSJ Jump Pack Fall 2017 promotional card","rows":[["Slifer the Sky Dragon","JMPS-EN005","Ultra Rare",61.39,"https://images.ygoprodeck.com/images/cards_small/10000020.jpg","Effect Monster"]]};

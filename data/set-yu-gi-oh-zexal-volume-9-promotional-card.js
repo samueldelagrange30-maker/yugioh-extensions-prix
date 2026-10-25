@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! ZEXAL Volume 9 promotional card","rows":[["Gagaga Head","YZ09-EN001","Ultra Rare",17.37,"https://images.ygoprodeck.com/images/cards_small/67120578.jpg","Effect Monster"]]};

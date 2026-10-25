@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"KC Grand Tournament prize card","rows":[["Blue-Eyes White Dragon","2020-EN001","Extra Secret Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/89631139.jpg","Normal Monster"]]};

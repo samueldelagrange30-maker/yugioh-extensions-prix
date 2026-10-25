@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2021 E","rows":[["Dark Magician Girl","LART-EN035","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/38033121.jpg","Effect Monster"]]};

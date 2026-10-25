@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Championship 2004 Prize Card","rows":[["Cyber-Stein","SJC-EN001","Ultra Rare",24067.8,"https://images.ygoprodeck.com/images/cards_small/69015963.jpg","Effect Monster"]]};

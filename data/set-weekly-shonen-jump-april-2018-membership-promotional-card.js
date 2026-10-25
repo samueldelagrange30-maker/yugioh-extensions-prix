@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump April 2018 membership promotional card","rows":[["Summon Sorceress","JUMP-EN084","Ultra Rare",29.64,"https://images.ygoprodeck.com/images/cards_small/61665245.jpg","Link Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Clash of Rebellions Sneak Peek Participation Card","rows":[["Sky Dragoons of Draconia","CORE-ENSP1","Ultra Rare",9.8,"https://images.ygoprodeck.com/images/cards_small/68182934.jpg","Pendulum Normal Monster"]]};

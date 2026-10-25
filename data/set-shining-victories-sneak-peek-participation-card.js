@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shining Victories Sneak Peek Participation Card","rows":[["Magical Cavalry of Cxulub","SHVI-ENSP1","Ultra Rare",4.01,"https://images.ygoprodeck.com/images/cards_small/23220863.jpg","Pendulum Effect Monster"]]};

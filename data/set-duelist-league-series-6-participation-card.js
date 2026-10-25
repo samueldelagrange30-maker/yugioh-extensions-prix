@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duelist League Series 6 participation card","rows":[["Toon Gemini Elf","DL6-EN001","Super Rare",6.26,"https://images.ygoprodeck.com/images/cards_small/42386471.jpg","Toon Monster"]]};

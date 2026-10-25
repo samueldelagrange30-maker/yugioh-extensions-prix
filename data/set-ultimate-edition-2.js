@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Ultimate Edition 2","rows":[["Dragon Master Knight","UE02-EN001","Ultra Rare",16.1,"https://images.ygoprodeck.com/images/cards_small/62873545.jpg","Fusion Monster"]]};

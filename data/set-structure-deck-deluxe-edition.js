@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Structure Deck: Deluxe Edition","rows":[["Armed Dragon LV7","SD1-ENDE1","Secret Rare",67.75,"https://images.ygoprodeck.com/images/cards_small/73879377.jpg","Effect Monster"],["Rope of Life","SD2-ENDE1","Secret Rare",27.53,"https://images.ygoprodeck.com/images/cards_small/93382620.jpg","Trap Card"]]};

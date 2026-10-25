@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2021 D","rows":[["Blazing Hiita","LART-EN034","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/92518817.jpg","Effect Monster"]]};

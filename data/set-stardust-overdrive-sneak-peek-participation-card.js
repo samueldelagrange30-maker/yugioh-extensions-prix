@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Stardust Overdrive Sneak Peek Participation Card","rows":[["Koa'ki Meiru Beetle","SOVR-ENSP1","Ultra Rare",1.19,"https://images.ygoprodeck.com/images/cards_small/39037517.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duelist Pack Collection Tin 2008","rows":[["Card Ejector","DPCT-EN001","Ultra Rare",3.63,"https://images.ygoprodeck.com/images/cards_small/26701483.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 4 participation card E","rows":[["Kycoo the Ghost Destroyer","HL04-EN005","Ultra Parallel Rare",14.21,"https://images.ygoprodeck.com/images/cards_small/88240808.jpg","Effect Monster"]]};

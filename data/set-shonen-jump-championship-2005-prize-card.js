@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Championship 2005 Prize Card","rows":[["Des Volstgalph","SJC-EN002","Ultra Rare",95074.95,"https://images.ygoprodeck.com/images/cards_small/81059524.jpg","Effect Monster"]]};

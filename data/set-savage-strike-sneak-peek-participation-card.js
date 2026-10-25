@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Savage Strike Sneak Peek Participation Card","rows":[["Shiranui Squiresaga","SAST-ENSP1","Ultra Rare",3.39,"https://images.ygoprodeck.com/images/cards_small/52711246.jpg","Synchro Monster"]]};

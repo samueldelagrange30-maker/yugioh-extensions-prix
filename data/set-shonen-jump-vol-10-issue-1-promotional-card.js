@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 10, Issue 1 promotional card","rows":[["The Supremacy Sun","JUMP-EN057","Ultra Rare",7.73,"https://images.ygoprodeck.com/images/cards_small/51402908.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2024 C","rows":[["Wattcancel","LART-EN068","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/56993276.jpg","Trap Card"]]};

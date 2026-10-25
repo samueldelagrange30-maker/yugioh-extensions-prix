@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 6, Issue 12 promotional card","rows":[["Arcana Force EX - The Light Ruler","JUMP-EN027","Ultra Rare",4.91,"https://images.ygoprodeck.com/images/cards_small/5861892.jpg","Effect Monster"]]};

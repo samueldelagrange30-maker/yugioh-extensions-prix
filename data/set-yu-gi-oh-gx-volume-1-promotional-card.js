@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 1 promotional card","rows":[["Light and Darkness Dragon","YG01-EN001","Secret Rare",91.9,"https://images.ygoprodeck.com/images/cards_small/47297616.jpg","Effect Monster"]]};

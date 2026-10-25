@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 2 participation card B","rows":[["Mystical Space Typhoon","HL2-EN002","Ultra Parallel Rare",25.7,"https://images.ygoprodeck.com/images/cards_small/5318639.jpg","Spell Card"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Dawn of Majesty Premiere! promotional card","rows":[["Beetrooper Scout Buggy","DAMA-ENSP1","Ultra Rare",21.35,"https://images.ygoprodeck.com/images/cards_small/2656842.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! GX Volume 6 promotional card","rows":[["Elemental HERO The Shining","YG06-EN001","Ultra Rare",11.74,"https://images.ygoprodeck.com/images/cards_small/22061412.jpg","Fusion Monster"]]};

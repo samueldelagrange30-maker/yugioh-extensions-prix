@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 5, Issue 11 promotional card","rows":[["The Wicked Avatar","JUMP-EN017","Ultra Rare",9.79,"https://images.ygoprodeck.com/images/cards_small/21208154.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! 5D's Volume 4 promotional card","rows":[["Blackwing - Gram the Shining Star","YF04-EN001","Ultra Rare",13.6,"https://images.ygoprodeck.com/images/cards_small/17377751.jpg","Synchro Monster"]]};

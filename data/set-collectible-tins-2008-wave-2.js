@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Collectible Tins 2008 Wave 2","rows":[["Black Rose Dragon","CT05-EN003","Secret Rare",18.35,"https://images.ygoprodeck.com/images/cards_small/73580471.jpg","Synchro Monster"],["Turbo Warrior","CT05-EN004","Secret Rare",3.3,"https://images.ygoprodeck.com/images/cards_small/46195773.jpg","Synchro Monster"]]};

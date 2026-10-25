@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duelist League Series 4 participation card","rows":[["Machine King","DL4-001","Super Rare",4.74,"https://images.ygoprodeck.com/images/cards_small/46700124.jpg","Effect Monster"]]};

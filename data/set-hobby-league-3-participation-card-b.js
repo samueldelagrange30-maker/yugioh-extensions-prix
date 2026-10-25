@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 3 participation card B","rows":[["Creature Swap","HL03-EN002","Ultra Parallel Rare",18.83,"https://images.ygoprodeck.com/images/cards_small/31036355.jpg","Spell Card"]]};

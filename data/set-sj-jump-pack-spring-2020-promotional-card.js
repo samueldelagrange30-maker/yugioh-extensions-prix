@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"SJ Jump Pack Spring 2020 promotional card","rows":[["Beatdown!","JMPS-ENS01","Ultra Rare",20.99,"https://images.ygoprodeck.com/images/cards_small/300202002.jpg","Skill Card"]]};

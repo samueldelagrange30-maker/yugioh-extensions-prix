@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Galactic Overlord Sneak Peek Participation Card","rows":[["Noble Knight Artorigus","GAOV-ENSP1","Ultra Rare",5.17,"https://images.ygoprodeck.com/images/cards_small/92125819.jpg","Normal Monster"]]};

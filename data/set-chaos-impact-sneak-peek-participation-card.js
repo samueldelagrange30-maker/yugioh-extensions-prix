@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Chaos Impact Sneak Peek Participation Card","rows":[["Gladiator Beast Vespasius","CHIM-ENSP1","Ultra Rare",4.26,"https://images.ygoprodeck.com/images/cards_small/88996322.jpg","Effect Monster"]]};

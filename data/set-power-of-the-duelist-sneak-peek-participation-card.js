@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Power of the Duelist Sneak Peek Participation Card","rows":[["Hidden Soldiers","SP02-EN003","Ultra Rare",12.24,"https://images.ygoprodeck.com/images/cards_small/2047519.jpg","Trap Card"]]};

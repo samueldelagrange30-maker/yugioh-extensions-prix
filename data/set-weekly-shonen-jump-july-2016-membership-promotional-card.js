@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump July 2016 membership promotional card","rows":[["Number S0: Utopic ZEXAL","JUMP-EN077","Ultra Rare",9.83,"https://images.ygoprodeck.com/images/cards_small/52653092.jpg","XYZ Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Spellcaster's Command Structure Deck: Special Edition","rows":[["Magician's Valkyria","SDSC-ENSE1","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/80304126.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Twilight Edition","rows":[["Honest","TWED-EN001","Ultra Rare",4.61,"https://images.ygoprodeck.com/images/cards_small/37742478.jpg","Effect Monster"]]};

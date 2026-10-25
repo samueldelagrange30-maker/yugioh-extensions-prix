@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2020 Q","rows":[["Harpie's Feather Rest","LART-EN029","Ultra Rare",13.04,"https://images.ygoprodeck.com/images/cards_small/39275698.jpg","Spell Card"]]};

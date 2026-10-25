@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Lightning Overdrive Premiere! promotional card","rows":[["Amazing Time Ticket","LIOV-ENSP1","Ultra Rare",14.75,"https://images.ygoprodeck.com/images/cards_small/70389815.jpg","Spell Card"]]};

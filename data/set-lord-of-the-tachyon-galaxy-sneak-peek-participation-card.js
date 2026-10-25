@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Lord of the Tachyon Galaxy Sneak Peek Participation Card","rows":[["Mecha Phantom Beast Turtletracer","LTGY-ENSP1","Ultra Rare",2.63,"https://images.ygoprodeck.com/images/cards_small/76902476.jpg","Effect Monster"]]};

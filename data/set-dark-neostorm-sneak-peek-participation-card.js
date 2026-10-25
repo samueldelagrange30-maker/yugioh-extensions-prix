@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Dark Neostorm Sneak Peek Participation Card","rows":[["Amphibious Swarmship Amblowhale","DANE-ENSP1","Ultra Rare",5.38,"https://images.ygoprodeck.com/images/cards_small/20665527.jpg","Link Monster"]]};

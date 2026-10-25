@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! 5D's Volume 6 promotional card","rows":[["Hot Red Dragon Archfiend","YF06-EN001","Ultra Rare",5.83,"https://images.ygoprodeck.com/images/cards_small/39765958.jpg","Synchro Monster"]]};

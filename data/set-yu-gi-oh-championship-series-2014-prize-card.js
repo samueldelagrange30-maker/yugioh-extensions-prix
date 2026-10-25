@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! Championship Series 2014 Prize Card","rows":[["Ascension Sky Dragon","YCSW-EN007","Super Rare",2534.65,"https://images.ygoprodeck.com/images/cards_small/37910722.jpg","Synchro Monster"],["Ascension Sky Dragon","YCSW-EN007","Ultra Rare",2920.16,"https://images.ygoprodeck.com/images/cards_small/37910722.jpg","Synchro Monster"]]};

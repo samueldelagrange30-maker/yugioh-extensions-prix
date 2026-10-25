@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 4 participation card C","rows":[["Asura Priest","HL04-EN003","Ultra Parallel Rare",15.3,"https://images.ygoprodeck.com/images/cards_small/2134346.jpg","Spirit Monster"]]};

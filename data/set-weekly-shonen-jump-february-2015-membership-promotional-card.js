@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump February 2015 membership promotional card","rows":[["Elemental HERO Core","JUMP-EN071","Ultra Rare",15.71,"https://images.ygoprodeck.com/images/cards_small/95486586.jpg","Fusion Monster"]]};

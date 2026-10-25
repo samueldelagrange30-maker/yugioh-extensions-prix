@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Raging Battle Sneak Peek Participation Card","rows":[["Battlestorm","RGBT-ENSP1","Ultra Rare",4.57,"https://images.ygoprodeck.com/images/cards_small/69695704.jpg","Effect Monster"]]};

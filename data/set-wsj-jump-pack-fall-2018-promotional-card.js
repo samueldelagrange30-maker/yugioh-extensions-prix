@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"WSJ Jump Pack Fall 2018 promotional card","rows":[["Apprentice Illusion Magician","JMPS-EN007","Ultra Rare",35.95,"https://images.ygoprodeck.com/images/cards_small/30603688.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"The Lost Art Promotion 2020 D","rows":[["Foolish Burial","LART-EN016","Ultra Rare",0.0,"https://images.ygoprodeck.com/images/cards_small/81439173.jpg","Spell Card"]]};

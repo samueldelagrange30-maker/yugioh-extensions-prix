@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! 5D's volume 8 promotional card","rows":[["Beelzeus of the Diabolic Dragons","YF08-EN001","Ultra Rare",16.16,"https://images.ygoprodeck.com/images/cards_small/8763963.jpg","Synchro Monster"]]};

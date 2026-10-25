@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"X-Saber Power-Up","rows":[["XX-Saber Fulhelmknight","XSPU-EN001","Super Rare",5.04,"https://images.ygoprodeck.com/images/cards_small/78422252.jpg","Tuner Monster"]]};

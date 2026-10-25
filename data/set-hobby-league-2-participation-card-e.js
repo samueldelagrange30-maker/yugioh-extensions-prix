@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 2 participation card E","rows":[["Marauding Captain","HL2-EN005","Ultra Parallel Rare",16.98,"https://images.ygoprodeck.com/images/cards_small/2460565.jpg","Effect Monster"]]};

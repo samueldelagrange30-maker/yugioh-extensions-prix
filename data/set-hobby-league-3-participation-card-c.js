@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 3 participation card C","rows":[["Trap Hole","HL03-EN003","Ultra Parallel Rare",11.56,"https://images.ygoprodeck.com/images/cards_small/4206964.jpg","Trap Card"]]};

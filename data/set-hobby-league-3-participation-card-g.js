@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 3 participation card G","rows":[["Dark Balter the Terrible","HL03-EN007","Ultra Parallel Rare",15.18,"https://images.ygoprodeck.com/images/cards_small/80071763.jpg","Fusion Monster"]]};

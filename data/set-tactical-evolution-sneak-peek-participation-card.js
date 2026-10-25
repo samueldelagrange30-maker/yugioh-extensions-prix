@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Tactical Evolution Sneak Peek Participation Card","rows":[["Gemini Summoner","TAEV-ENSP1","Super Rare",4.95,"https://images.ygoprodeck.com/images/cards_small/19041767.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Collectible Tins 2009 Wave 2","rows":[["Earthbound Immortal Wiraqocha Rasca","CT06-EN004","Secret Rare",5.75,"https://images.ygoprodeck.com/images/cards_small/41181774.jpg","Effect Monster"],["Majestic Star Dragon","CT06-EN003","Secret Rare",11.91,"https://images.ygoprodeck.com/images/cards_small/7841112.jpg","Synchro Monster"]]};

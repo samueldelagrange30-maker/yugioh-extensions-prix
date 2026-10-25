@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 7 participation card B","rows":[["Neo-Spacian Grand Mole","HL07-EN002","Ultra Parallel Rare",11.3,"https://images.ygoprodeck.com/images/cards_small/80344569.jpg","Effect Monster"]]};

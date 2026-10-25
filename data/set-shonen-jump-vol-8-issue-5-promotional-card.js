@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 5 promotional card","rows":[["Hundred Eyes Dragon","JUMP-EN039","Ultra Rare",9.48,"https://images.ygoprodeck.com/images/cards_small/95453143.jpg","Synchro Monster"]]};

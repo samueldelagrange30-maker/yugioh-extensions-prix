@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Storm of Ragnarok: Special Edition","rows":[["Hand of the Six Samurai","STOR-ENSE2","Super Rare",2.82,"https://images.ygoprodeck.com/images/cards_small/78792195.jpg","Effect Monster"],["Light and Darkness Dragon","STOR-ENSE1","Super Rare",4.06,"https://images.ygoprodeck.com/images/cards_small/47297616.jpg","Effect Monster"]]};

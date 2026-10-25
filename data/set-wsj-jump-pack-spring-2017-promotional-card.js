@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"WSJ Jump Pack Spring 2017 promotional card","rows":[["Obelisk the Tormentor","JMPS-EN004","Ultra Rare",30.3,"https://images.ygoprodeck.com/images/cards_small/10000000.jpg","Effect Monster"]]};

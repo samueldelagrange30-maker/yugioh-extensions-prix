@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Weekly Shonen Jump December 2013 membership promotional card","rows":[["Archfiend Commander","JUMP-EN067","Ultra Rare",4.46,"https://images.ygoprodeck.com/images/cards_small/68371799.jpg","Effect Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Duelist League Series 9 participation card","rows":[["Last Day of Witch","DL9-EN001","Super Rare",13.54,"https://images.ygoprodeck.com/images/cards_small/90330453.jpg","Spell Card"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 7, Issue 11 promotional card","rows":[["Darkness Neosphere","JUMP-EN036","Ultra Rare",8.89,"https://images.ygoprodeck.com/images/cards_small/60417395.jpg","Effect Monster"]]};

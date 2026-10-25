@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Shonen Jump Vol. 7, Issue 9 promotional card","rows":[["Tragoedia","JUMP-EN033","Ultra Rare",13.42,"https://images.ygoprodeck.com/images/cards_small/98777036.jpg","Effect Monster"]]};

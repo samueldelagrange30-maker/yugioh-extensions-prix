@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Enemy of Justice Sneak Peek Participation Card","rows":[["Toon Dark Magician Girl","SP2-EN002","Ultra Rare",48.23,"https://images.ygoprodeck.com/images/cards_small/90960358.jpg","Toon Monster"]]};

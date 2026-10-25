@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Ultimate Edition","rows":[["Blue-Eyes Ultimate Dragon","JMP-EN005","Ultra Rare",13.58,"https://images.ygoprodeck.com/images/cards_small/23995346.jpg","Fusion Monster"]]};

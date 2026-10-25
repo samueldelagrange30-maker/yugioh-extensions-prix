@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Crossed Souls Sneak Peek Participation Card","rows":[["Sea Dragoons of Draconia","CROS-ENSP1","Ultra Rare",4.06,"https://images.ygoprodeck.com/images/cards_small/82114013.jpg","Pendulum Normal Monster"]]};

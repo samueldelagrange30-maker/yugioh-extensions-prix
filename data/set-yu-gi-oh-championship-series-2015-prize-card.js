@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! Championship Series 2015 Prize Card","rows":[["Minerva, the Exalted Lightsworn","YCSW-EN008","Super Rare",4510.81,"https://images.ygoprodeck.com/images/cards_small/30100551.jpg","XYZ Monster"],["Minerva, the Exalted Lightsworn","YCSW-EN008","Ultra Rare",5107.3,"https://images.ygoprodeck.com/images/cards_small/30100551.jpg","XYZ Monster"]]};

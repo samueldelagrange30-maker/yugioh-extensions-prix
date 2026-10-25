@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! R Volume 1 promotional card","rows":[["Van'Dalgyon the Dark Dragon Lord","YR01-EN001","Secret Rare",19.18,"https://images.ygoprodeck.com/images/cards_small/24857466.jpg","Effect Monster"]]};

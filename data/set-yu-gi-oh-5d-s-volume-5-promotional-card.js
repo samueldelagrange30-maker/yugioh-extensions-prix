@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Yu-Gi-Oh! 5D's Volume 5 promotional card","rows":[["Stardust Spark Dragon","YF05-EN001","Ultra Rare",8.18,"https://images.ygoprodeck.com/images/cards_small/83994433.jpg","Synchro Monster"]]};

@@ -1,0 +1,1 @@
+window.YGO_SET={"n":"Hobby League 6 participation card E","rows":[["Call of the Haunted","HL06-EN005","Ultra Parallel Rare",21.87,"https://images.ygoprodeck.com/images/cards_small/97077563.jpg","Trap Card"]]};
