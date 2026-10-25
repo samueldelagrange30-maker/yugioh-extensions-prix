@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Dark Crisis (25th Anniversary Edition)","rows":[["Maju Garzett","DCR-EN024","Common",0.24,"https://images.ygoprodeck.com/images/cards_small/8794435.jpg","Effect Monster",2]]};
+window.YGO_SET={"n":"Dark Crisis (25th Anniversary Edition)","rows":[["Maju Garzett","DCR-EN024","Common",0.24,8794435,"Effect Monster",2]],"cards":{"8794435":{"t":"Effect Monster","d":"The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.","r":"Fiend","a":"DARK","l":7,"k":-1,"f":0}}};

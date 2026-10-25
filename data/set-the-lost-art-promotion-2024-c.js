@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2024 C","rows":[["Wattcancel","LART-EN068","Ultra Rare",0.29,"https://images.ygoprodeck.com/images/cards_small/56993276.jpg","Trap Card",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2024 C","rows":[["Wattcancel","LART-EN068","Ultra Rare",0.29,56993276,"Trap Card",2]],"cards":{"56993276":{"t":"Trap Card","d":"When your opponent would Normal or Special Summon a monster: Discard 1 \"Watt\" monster; negate the Summon and destroy it.","r":"Counter","a":"","l":null,"k":null,"f":null}}};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Power of the Duelist Sneak Peek Participation Card","rows":[["Hidden Soldiers","SP02-EN003","Ultra Rare",12.24,"https://images.ygoprodeck.com/images/cards_small/2047519.jpg","Trap Card",0]]};
+window.YGO_SET={"n":"Power of the Duelist Sneak Peek Participation Card","rows":[["Hidden Soldiers","SP02-EN003","Ultra Rare",12.24,2047519,"Trap Card",0]],"cards":{"2047519":{"t":"Trap Card","d":"When your opponent Normal or Flip Summons a monster: Special Summon 1 Level 4 or lower DARK monster from your hand.","r":"Normal","a":"","l":null,"k":null,"f":null}}};

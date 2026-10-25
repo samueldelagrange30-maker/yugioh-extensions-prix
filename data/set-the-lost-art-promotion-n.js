@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion N","rows":[["Solemn Judgment","LART-EN014","Ultra Rare",1.13,"https://images.ygoprodeck.com/images/cards_small/41420027.jpg","Trap Card",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion N","rows":[["Solemn Judgment","LART-EN014","Ultra Rare",1.13,41420027,"Trap Card",2]],"cards":{"41420027":{"t":"Trap Card","d":"When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.","r":"Counter","a":"","l":null,"k":null,"f":null}}};

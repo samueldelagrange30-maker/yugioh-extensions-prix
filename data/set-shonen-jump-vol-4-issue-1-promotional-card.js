@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 4, Issue 1 promotional card","rows":[["Blue-Eyes Ultimate Dragon","JMP-EN005","Secret Rare",22.14,"https://images.ygoprodeck.com/images/cards_small/23995346.jpg","Fusion Monster",0]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 4, Issue 1 promotional card","rows":[["Blue-Eyes Ultimate Dragon","JMP-EN005","Secret Rare",22.14,23995346,"Fusion Monster",0]],"cards":{"23995346":{"t":"Fusion Monster","d":"\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"","r":"Dragon","a":"LIGHT","l":12,"k":4500,"f":3800}}};

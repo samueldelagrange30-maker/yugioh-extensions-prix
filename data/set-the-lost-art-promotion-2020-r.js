@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2020 R","rows":[["Tragedy","LART-EN030","Ultra Rare",7.37,"https://images.ygoprodeck.com/images/cards_small/35686188.jpg","Trap Card",0]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2020 R","rows":[["Tragedy","LART-EN030","Ultra Rare",7.37,35686188,"Trap Card",0]],"cards":{"35686188":{"t":"Trap Card","d":"When a face-up Attack Position monster(s) your opponent controls is changed to face-up Defense Position: Destroy all Defense Position monsters your opponent controls.","r":"Normal","a":"","l":null,"k":null,"f":null}}};

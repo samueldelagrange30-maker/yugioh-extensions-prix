@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Ultimate Edition","rows":[["Blue-Eyes Ultimate Dragon","JMP-EN005","Ultra Rare",13.58,"https://images.ygoprodeck.com/images/cards_small/23995346.jpg","Fusion Monster",0]]};
+window.YGO_SET={"n":"Ultimate Edition","rows":[["Blue-Eyes Ultimate Dragon","JMP-EN005","Ultra Rare",13.58,23995346,"Fusion Monster",0]],"cards":{"23995346":{"t":"Fusion Monster","d":"\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"","r":"Dragon","a":"LIGHT","l":12,"k":4500,"f":3800}}};

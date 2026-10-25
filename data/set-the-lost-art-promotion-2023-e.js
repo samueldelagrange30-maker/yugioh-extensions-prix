@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2023 E","rows":[["Stygian Dirge","LART-EN058","Ultra Rare",0.6,"https://images.ygoprodeck.com/images/cards_small/81489939.jpg","Trap Card",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2023 E","rows":[["Stygian Dirge","LART-EN058","Ultra Rare",0.6,81489939,"Trap Card",2]],"cards":{"81489939":{"t":"Trap Card","d":"Reduce the Levels of all monsters your opponent controls by 1.","r":"Continuous","a":"","l":null,"k":null,"f":null}}};

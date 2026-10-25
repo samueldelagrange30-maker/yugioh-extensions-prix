@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2020 G","rows":[["Dark Magician Girl","LART-EN019","Ultra Rare",0.44,"https://images.ygoprodeck.com/images/cards_small/38033121.jpg","Effect Monster",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2020 G","rows":[["Dark Magician Girl","LART-EN019","Ultra Rare",0.44,38033121,"Effect Monster",2]],"cards":{"38033121":{"t":"Effect Monster","d":"Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.","r":"Spellcaster","a":"DARK","l":6,"k":2000,"f":1700}}};

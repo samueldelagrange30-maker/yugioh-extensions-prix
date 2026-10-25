@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 I","rows":[["Gemini Elf","LART-EN039","Ultra Rare",0.17,"https://images.ygoprodeck.com/images/cards_small/69140098.jpg","Normal Monster",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 I","rows":[["Gemini Elf","LART-EN039","Ultra Rare",0.17,69140098,"Normal Monster",2]],"cards":{"69140098":{"t":"Normal Monster","d":"Elf twins that alternate their attacks.","r":"Spellcaster","a":"EARTH","l":4,"k":1900,"f":900}}};

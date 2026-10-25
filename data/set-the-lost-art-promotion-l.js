@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion L","rows":[["Skill Drain","LART-EN012","Ultra Rare",0.25,"https://images.ygoprodeck.com/images/cards_small/82732705.jpg","Trap Card",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion L","rows":[["Skill Drain","LART-EN012","Ultra Rare",0.25,82732705,"Trap Card",2]],"cards":{"82732705":{"t":"Trap Card","d":"Activate by paying 1000 LP. Negate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated).","r":"Continuous","a":"","l":null,"k":null,"f":null}}};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 G","rows":[["Barrel Dragon","LART-EN037","Ultra Rare",13.0,"https://images.ygoprodeck.com/images/cards_small/81480461.jpg","Effect Monster",0]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 G","rows":[["Barrel Dragon","LART-EN037","Ultra Rare",13.0,81480461,"Effect Monster",0]],"cards":{"81480461":{"t":"Effect Monster","d":"Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.","r":"Machine","a":"DARK","l":7,"k":2600,"f":2200}}};

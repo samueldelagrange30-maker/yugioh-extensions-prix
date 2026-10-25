@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 L","rows":[["Foolish Return","LART-EN042","Ultra Rare",0.08,"https://images.ygoprodeck.com/images/cards_small/88369727.jpg","Spell Card",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 L","rows":[["Foolish Return","LART-EN042","Ultra Rare",0.08,88369727,"Spell Card",2]],"cards":{"88369727":{"t":"Spell Card","d":"Select 1 card in your opponent's Graveyard. Return it to the Deck.","r":"Quick-Play","a":"","l":null,"k":null,"f":null}}};

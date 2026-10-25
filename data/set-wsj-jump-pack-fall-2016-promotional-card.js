@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"WSJ Jump Pack Fall 2016 promotional card","rows":[["Dark Magician","JMPS-EN003","Ultra Rare",171.83,"https://images.ygoprodeck.com/images/cards_small/46986414.jpg","Normal Monster",0]]};
+window.YGO_SET={"n":"WSJ Jump Pack Fall 2016 promotional card","rows":[["Dark Magician","JMPS-EN003","Ultra Rare",171.83,46986414,"Normal Monster",0]],"cards":{"46986414":{"t":"Normal Monster","d":"''The ultimate wizard in terms of attack and defense.''","r":"Spellcaster","a":"DARK","l":7,"k":2500,"f":2100}}};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 3 participation card C","rows":[["Trap Hole","HL03-EN003","Ultra Parallel Rare",11.56,"https://images.ygoprodeck.com/images/cards_small/4206964.jpg","Trap Card",0]]};
+window.YGO_SET={"n":"Hobby League 3 participation card C","rows":[["Trap Hole","HL03-EN003","Ultra Parallel Rare",11.56,4206964,"Trap Card",0]],"cards":{"4206964":{"t":"Trap Card","d":"When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.","r":"Normal","a":"","l":null,"k":null,"f":null}}};

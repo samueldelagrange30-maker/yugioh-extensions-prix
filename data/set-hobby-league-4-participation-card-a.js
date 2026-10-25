@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 4 participation card A","rows":[["Exiled Force","HL04-EN001","Ultra Parallel Rare",12.14,"https://images.ygoprodeck.com/images/cards_small/74131780.jpg","Effect Monster",0]]};
+window.YGO_SET={"n":"Hobby League 4 participation card A","rows":[["Exiled Force","HL04-EN001","Ultra Parallel Rare",12.14,74131780,"Effect Monster",0]],"cards":{"74131780":{"t":"Effect Monster","d":"You can Tribute this card to target 1 monster on the field; destroy that target.","r":"Warrior","a":"EARTH","l":4,"k":1000,"f":1000}}};

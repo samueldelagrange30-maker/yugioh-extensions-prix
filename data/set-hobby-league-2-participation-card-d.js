@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 2 participation card D","rows":[["Heavy Storm","HL2-EN004","Ultra Parallel Rare",33.94,"https://images.ygoprodeck.com/images/cards_small/19613556.jpg","Spell Card",0]]};
+window.YGO_SET={"n":"Hobby League 2 participation card D","rows":[["Heavy Storm","HL2-EN004","Ultra Parallel Rare",33.94,19613556,"Spell Card",0]],"cards":{"19613556":{"t":"Spell Card","d":"Destroy all Spell and Trap Cards on the field.","r":"Normal","a":"","l":null,"k":null,"f":null}}};

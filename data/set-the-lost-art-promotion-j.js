@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion J","rows":[["Dark Ruler Ha Des","LART-EN010","Ultra Rare",0.16,"https://images.ygoprodeck.com/images/cards_small/53982768.jpg","Effect Monster",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion J","rows":[["Dark Ruler Ha Des","LART-EN010","Ultra Rare",0.16,53982768,"Effect Monster",2]],"cards":{"53982768":{"t":"Effect Monster","d":"Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.","r":"Fiend","a":"DARK","l":6,"k":2450,"f":1600}}};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 7 participation card D","rows":[["Red Gadget","HL07-EN004","Ultra Parallel Rare",7.1,"https://images.ygoprodeck.com/images/cards_small/86445415.jpg","Effect Monster",0]]};
+window.YGO_SET={"n":"Hobby League 7 participation card D","rows":[["Red Gadget","HL07-EN004","Ultra Parallel Rare",7.1,86445415,"Effect Monster",0]],"cards":{"86445415":{"t":"Effect Monster","d":"When this card is Normal or Special Summoned: You can add 1 \"Yellow Gadget\" from your Deck to your hand.","r":"Machine","a":"EARTH","l":4,"k":1300,"f":1500}}};

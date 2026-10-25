@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion E","rows":[["Left Arm of the Forbidden One","LART-EN005","Ultra Rare",57.37,"https://images.ygoprodeck.com/images/cards_small/7902349.jpg","Normal Monster",0]]};
+window.YGO_SET={"n":"The Lost Art Promotion E","rows":[["Left Arm of the Forbidden One","LART-EN005","Ultra Rare",57.37,7902349,"Normal Monster",0]],"cards":{"7902349":{"t":"Normal Monster","d":"A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.","r":"Spellcaster","a":"DARK","l":1,"k":200,"f":300}}};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Championship 2004 Prize Card","rows":[["Cyber-Stein","SJC-EN001","Ultra Rare",24067.8,"https://images.ygoprodeck.com/images/cards_small/69015963.jpg","Effect Monster",0]]};
+window.YGO_SET={"n":"Shonen Jump Championship 2004 Prize Card","rows":[["Cyber-Stein","SJC-EN001","Ultra Rare",24067.8,69015963,"Effect Monster",0]],"cards":{"69015963":{"t":"Effect Monster","d":"You can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.","r":"Machine","a":"DARK","l":2,"k":700,"f":500}}};

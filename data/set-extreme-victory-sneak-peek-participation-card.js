@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Extreme Victory Sneak Peek Participation Card","rows":[["Reborn Tengu","EXVC-ENSP1","Ultra Rare",8.41,"https://images.ygoprodeck.com/images/cards_small/10028593.jpg","Effect Monster",0]]};
+window.YGO_SET={"n":"Extreme Victory Sneak Peek Participation Card","rows":[["Reborn Tengu","EXVC-ENSP1","Ultra Rare",8.41,10028593,"Effect Monster",0]],"cards":{"10028593":{"t":"Effect Monster","d":"If this face-up card leaves the field: Special Summon 1 \"Reborn Tengu\" from your Deck.","r":"Beast-Warrior","a":"WIND","l":4,"k":1700,"f":600}}};

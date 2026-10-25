@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 7 promotional card","rows":[["Golem Dragon","JUMP-EN040","Ultra Rare",5.91,"https://images.ygoprodeck.com/images/cards_small/9666558.jpg","Effect Monster",0]]};
+window.YGO_SET={"n":"Shonen Jump Vol. 8, Issue 7 promotional card","rows":[["Golem Dragon","JUMP-EN040","Ultra Rare",5.91,9666558,"Effect Monster",0]],"cards":{"9666558":{"t":"Effect Monster","d":"Your opponent cannot target face-up Dragon-Type monsters for attacks, except this one.","r":"Dragon","a":"EARTH","l":4,"k":200,"f":2000}}};

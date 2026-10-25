@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Generation Force Sneak Peek Participation Card","rows":[["Xyz Veil","GENF-ENSP1","Ultra Rare",5.18,"https://images.ygoprodeck.com/images/cards_small/96457619.jpg","Trap Card",0]]};
+window.YGO_SET={"n":"Generation Force Sneak Peek Participation Card","rows":[["Xyz Veil","GENF-ENSP1","Ultra Rare",5.18,96457619,"Trap Card",0]],"cards":{"96457619":{"t":"Trap Card","d":"Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.","r":"Continuous","a":"","l":null,"k":null,"f":null}}};

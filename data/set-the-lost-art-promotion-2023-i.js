@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2023 I","rows":[["Grand Convergence","LART-EN062","Ultra Rare",0.11,"https://images.ygoprodeck.com/images/cards_small/38430673.jpg","Spell Card",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2023 I","rows":[["Grand Convergence","LART-EN062","Ultra Rare",0.11,38430673,"Spell Card",2]],"cards":{"38430673":{"t":"Spell Card","d":"If you control \"Macro Cosmos\": Inflict 300 damage to your opponent and destroy all monsters on the field.","r":"Quick-Play","a":"","l":null,"k":null,"f":null}}};

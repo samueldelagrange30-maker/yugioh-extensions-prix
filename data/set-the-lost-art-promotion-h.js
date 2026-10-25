@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion H","rows":[["Lesser Fiend","LART-EN008","Ultra Rare",0.13,"https://images.ygoprodeck.com/images/cards_small/16475472.jpg","Effect Monster",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion H","rows":[["Lesser Fiend","LART-EN008","Ultra Rare",0.13,16475472,"Effect Monster",2]],"cards":{"16475472":{"t":"Effect Monster","d":"(This card is always treated as an \"Archfiend\" card.)\nBanish any monster destroyed by battle with this card.","r":"Fiend","a":"DARK","l":5,"k":2100,"f":1000}}};

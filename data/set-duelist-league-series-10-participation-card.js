@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duelist League Series 10 participation card","rows":[["Breath of Light","DL10-EN001","Super Rare",97.8,"https://images.ygoprodeck.com/images/cards_small/20101223.jpg","Spell Card",0]]};
+window.YGO_SET={"n":"Duelist League Series 10 participation card","rows":[["Breath of Light","DL10-EN001","Super Rare",97.8,20101223,"Spell Card",0]],"cards":{"20101223":{"t":"Spell Card","d":"Destroy all face-up Rock-Type monsters on the field.","r":"Normal","a":"","l":null,"k":null,"f":null}}};

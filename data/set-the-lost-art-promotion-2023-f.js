@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2023 F","rows":[["Zombyra the Dark","LART-EN059","Ultra Rare",0.92,"https://images.ygoprodeck.com/images/cards_small/88472456.jpg","Effect Monster",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2023 F","rows":[["Zombyra the Dark","LART-EN059","Ultra Rare",0.92,88472456,"Effect Monster",2]],"cards":{"88472456":{"t":"Effect Monster","d":"This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.","r":"Warrior","a":"DARK","l":4,"k":2100,"f":500}}};

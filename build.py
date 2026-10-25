@@ -15,9 +15,10 @@ def price(p):
     except: return 0.0
 # Cascade de prix par impression: src 0=exact, 1=impression soeur (même carte/extension/rareté), 2=prix moyen carte, 3=indispo
 def num(code): m=re.search(r'(\d+)$',code or ''); return int(m.group(1)) if m else None
-sets={};dups=0
+sets={};dups=0;CI={}
 for c in cards:
-    img=c['card_images'][0]['image_url_small'] if c.get('card_images') else ''
+    img=c['card_images'][0]['id'] if c.get('card_images') else 0
+    CI[img]=dict(t=c.get('type',''),d=c.get('desc',''),r=c.get('race',''),a=c.get('attribute',''),l=c.get('level'),k=c.get('atk'),f=c.get('def'))
     cp=(c.get('card_prices') or [{}])[0]
     cardp=price(cp.get('tcgplayer_price'))
     if cardp<=0: cardp=next((price(cp.get(k)) for k in ('ebay_price','amazon_price','coolstuffinc_price') if price(cp.get(k))>0),0.0)
@@ -44,11 +45,12 @@ for name,rows in sets.items():
     used.add(k)
     tot=round(sum(r[3] for r in rows),2); miss=sum(1 for r in rows if r[6]==3); est=round(sum(r[3] for r in rows if r[6] in(1,2)),2); ne=sum(1 for r in rows if r[6] in(1,2))
     m=meta.get(name,{})
-    idx.append(dict(n=name,s=k,c=(m.get('set_code') or (rows[0][1].split('-')[0])),d=m.get('tcg_date',''),p=len(rows),t=tot,m=miss,e=est,ne=ne,i=m.get('set_image','')))
+    idx.append(dict(n=name,s=k,c=(m.get('set_code') or (rows[0][1].split('-')[0])),d=m.get('tcg_date',''),p=len(rows),t=tot,m=miss,e=est,ne=ne,i=1 if m.get('set_code') and os.path.exists(os.path.join(B,'img','s',m['set_code']+'.webp')) else 0))
     grand+=tot;n+=len(rows)
     for r in rows: cnt[r[6]]+=1
     with open(os.path.join(D,f'set-{k}.js'),'w') as f:
-        f.write('window.YGO_SET='+json.dumps(dict(n=name,rows=rows),ensure_ascii=False,separators=(',',':'))+';')
+        info_c={r[4]:CI[r[4]] for r in rows}
+        f.write('window.YGO_SET='+json.dumps(dict(n=name,rows=rows,cards=info_c),ensure_ascii=False,separators=(',',':'))+';')
 info=dict(date=datetime.date.today().isoformat(),grand=round(grand,2),printings=n,sets=len(idx),src=cnt,dups=dups,est=round(sum(x['e'] for x in idx),2))
 with open(os.path.join(D,'sets-index.js'),'w') as f:
     f.write('window.YGO_INFO='+json.dumps(info)+';window.YGO_SETS='+json.dumps(idx,ensure_ascii=False,separators=(',',':'))+';')

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Duelist Revolution Sneak Peek Participation Card","rows":[["Scrap Archfiend","DREV-ENSP1","Ultra Rare",4.58,"https://images.ygoprodeck.com/images/cards_small/45815891.jpg","Synchro Monster",0]]};
+window.YGO_SET={"n":"Duelist Revolution Sneak Peek Participation Card","rows":[["Scrap Archfiend","DREV-ENSP1","Ultra Rare",4.58,45815891,"Synchro Monster",0]],"cards":{"45815891":{"t":"Synchro Monster","d":"1 Tuner + 1 or more non-Tuner monsters","r":"Fiend","a":"EARTH","l":7,"k":2700,"f":1800}}};

@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Crossroads of Chaos Sneak Peek Participation Card","rows":[["Rose, Warrior of Revenge","CSOC-ENSP1","Super Rare",5.18,"https://images.ygoprodeck.com/images/cards_small/1557341.jpg","Tuner Monster",0]]};
+window.YGO_SET={"n":"Crossroads of Chaos Sneak Peek Participation Card","rows":[["Rose, Warrior of Revenge","CSOC-ENSP1","Super Rare",5.18,1557341,"Tuner Monster",0]],"cards":{"1557341":{"t":"Tuner Monster","d":"When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.","r":"Warrior","a":"FIRE","l":4,"k":1600,"f":600}}};

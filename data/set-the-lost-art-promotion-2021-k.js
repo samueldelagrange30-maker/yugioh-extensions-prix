@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2021 K","rows":[["Elemental HERO Burstinatrix","LART-EN041","Ultra Rare",0.23,"https://images.ygoprodeck.com/images/cards_small/58932615.jpg","Normal Monster",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2021 K","rows":[["Elemental HERO Burstinatrix","LART-EN041","Ultra Rare",0.23,58932615,"Normal Monster",2]],"cards":{"58932615":{"t":"Normal Monster","d":"A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.","r":"Warrior","a":"FIRE","l":3,"k":1200,"f":800}}};

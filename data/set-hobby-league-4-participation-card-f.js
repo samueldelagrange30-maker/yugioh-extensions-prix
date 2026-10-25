@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Hobby League 4 participation card F","rows":[["Torrential Tribute","HL04-EN006","Ultra Parallel Rare",22.22,"https://images.ygoprodeck.com/images/cards_small/53582587.jpg","Trap Card",0]]};
+window.YGO_SET={"n":"Hobby League 4 participation card F","rows":[["Torrential Tribute","HL04-EN006","Ultra Parallel Rare",22.22,53582587,"Trap Card",0]],"cards":{"53582587":{"t":"Trap Card","d":"When a monster(s) is Summoned: Destroy all monsters on the field.","r":"Normal","a":"","l":null,"k":null,"f":null}}};

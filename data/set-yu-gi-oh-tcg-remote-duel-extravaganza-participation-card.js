@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Yu-Gi-Oh! TCG Remote Duel Extravaganza participation card","rows":[["Amabie","21CC-EN001","Common",11.27,"https://images.ygoprodeck.com/images/cards_small/2139640.jpg","Effect Monster",0]]};
+window.YGO_SET={"n":"Yu-Gi-Oh! TCG Remote Duel Extravaganza participation card","rows":[["Amabie","21CC-EN001","Common",11.27,2139640,"Effect Monster",0]],"cards":{"2139640":{"t":"Effect Monster","d":"At the start of your Main Phase 1: You can reveal this card in your hand; each player gains 300 LP.","r":"Fairy","a":"WATER","l":3,"k":0,"f":0}}};

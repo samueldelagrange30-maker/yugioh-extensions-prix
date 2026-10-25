@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"Kids WB Duel of Destiny promotional card","rows":[["Card of Sanctity","EP1-EN000","Common",0.23,"https://images.ygoprodeck.com/images/cards_small/42664989.jpg","Spell Card",2]]};
+window.YGO_SET={"n":"Kids WB Duel of Destiny promotional card","rows":[["Card of Sanctity","EP1-EN000","Common",0.23,42664989,"Spell Card",2]],"cards":{"42664989":{"t":"Spell Card","d":"Banish all other cards you control and in your hand (min. 1 from each); draw until you have 2 cards in your hand.","r":"Normal","a":"","l":null,"k":null,"f":null}}};

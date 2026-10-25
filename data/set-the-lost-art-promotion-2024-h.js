@@ -1,1 +1,1 @@
-window.YGO_SET={"n":"The Lost Art Promotion 2024 H","rows":[["Monster Reborn","LART-EN074","Ultra Rare",0.2,"https://images.ygoprodeck.com/images/cards_small/83764719.jpg","Spell Card",2]]};
+window.YGO_SET={"n":"The Lost Art Promotion 2024 H","rows":[["Monster Reborn","LART-EN074","Ultra Rare",0.2,83764719,"Spell Card",2]],"cards":{"83764719":{"t":"Spell Card","d":"Target 1 monster in either GY; Special Summon it.","r":"Normal","a":"","l":null,"k":null,"f":null}}};
